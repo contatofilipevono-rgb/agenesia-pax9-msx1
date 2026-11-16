@@ -13,9 +13,11 @@
 |---|---|
 | `submissao/manuscript.md` | Manuscrito completo em inglês: página de título com placeholders, resumo não estruturado (≤ 200 palavras conforme normas da EJOS), 5 palavras-chave MeSH, Introdução (~607 palavras), Material e Métodos (~1.416 palavras), Resultados (~3.771 palavras incluindo Tables 1–3 integradas), Discussão (~1.349 palavras com todas as 12 limitações), Declarações (ética, financiamento, conflitos, CRediT, disponibilidade com avisos obrigatórios do AlphaFold Server e do AlphaGenome), Legendas das Figuras 1–5 (incluindo Fig. 1C) e 27 referências em estilo Vancouver completo. |
 | `submissao/manuscript.docx` | Versão Word formatada do manuscrito completo (Times New Roman, espaçamento 1,5, tabelas acadêmicas de três linhas, quebras de página entre folha de rosto, corpo, legendas e referências). |
+| `submissao/manuscript.pdf` | Versão PDF limpa para leitura e submissão (folha de rosto, resumo, texto, Tables 1–3, declarações, legendas e referências). |
+| `submissao/manuscript_with_figures_preview.pdf` | Versão PDF completa com as Figuras 1–5 (incluindo Fig. 1C) incorporadas ao final para revisão integrada. |
 | `submissao/tables.docx` | Arquivo separado com as **Tables 1–3** formatadas em estilo acadêmico de três linhas, notas de rodapé metodológicas e estatísticas consistentes com `manuscript.md`. |
 | `submissao/supplementary.xlsx` | Planilha suplementar com 6 abas: `S1_VUS_Classification` (todas as 210 VUS dos domínios com coluna de subgrupo de independência), `S1_VUS_Subgroup_Summary`, `S2_Threshold_Sensitivity` (grade 3×3 completa + ICs de Wilson e Simel + transferência para *MSX1*), `S3_AlphaGenome_By_Cell` (77 variantes não codificantes/splicing por tipo celular + AG1 + SpliceAI), `S3b_Expression_By_Cell` (`expressao_por_celula.csv`) e `S4_AlphaFold_Server_Jobs` (41 jobs + aviso do AlphaFold Server). |
-| `submissao/cover_letter.docx` | Carta de submissão de 1 página endereçada ao Editor-in-Chief da *European Journal of Oral Sciences*. |
+| `submissao/cover_letter.docx` e `cover_letter.pdf` | Carta de submissão de 1 página endereçada ao Editor-in-Chief da *European Journal of Oral Sciences*. |
 | `submissao/figuras/` | Cópias em padrão editorial da EJOS: `Figure_1_DNA_distance` a `Figure_5_alphagenome_spliceai` em **TIFF 600 dpi** (compressão LZW) e **PDF vetorial**, mantendo integralmente a paleta validada para daltonismo, além de `Figure_1C_PAX9_AF3_pLDDT.tif` (300 dpi). |
 | `submissao/RELATORIO_FINALIZACAO.md` | Este relatório de finalização e auditoria. |
 
