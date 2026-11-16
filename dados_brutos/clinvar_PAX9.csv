@@ -1,0 +1,243 @@
+gene,clinvar_uid,accession,title,protein_change,molecular_consequence,variant_type,classification,review_status,conditions
+PAX9,5038173,VCV005038173,NM_001372076.1(PAX9):c.287_295dup (p.Phe98_Ala99insGlyIlePhe),,inframe_insertion,Duplication,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,5026325,VCV005026325,NM_001372076.1(PAX9):c.436C>G (p.His146Asp),H146D,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4998215,VCV004998215,NM_001372076.1(PAX9):c.771+3dup,,intron variant,Duplication,Likely pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4996917,VCV004996917,NM_001372076.1(PAX9):c.384C>T (p.Arg128=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4994711,VCV004994711,NM_001372076.1(PAX9):c.181_183del (p.Asn61del),N61del,inframe_deletion,Deletion,Uncertain significance,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4993096,VCV004993096,NM_001372076.1(PAX9):c.316CTG[1] (p.Leu107del),L107del,inframe_deletion,Microsatellite,Uncertain significance,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4974538,VCV004974538,NM_001372076.1(PAX9):c.532_592dup (p.Val198fs),V198fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,4921580,VCV004921580,NM_001372076.1(PAX9):c.771+5G>C,,intron variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,4921579,VCV004921579,NM_001372076.1(PAX9):c.688C>T (p.Arg230Cys),R230C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,4921578,VCV004921578,NM_001372076.1(PAX9):c.650A>G (p.Tyr217Cys),Y217C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,4921577,VCV004921577,NM_001372076.1(PAX9):c.550G>T (p.Gly184Cys),G184C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,4921576,VCV004921576,NM_001372076.1(PAX9):c.285dup (p.Gly96fs),G96fs,frameshift variant,Duplication,Likely pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4921575,VCV004921575,NM_001372076.1(PAX9):c.70_103del (p.Ala24fs),A24fs,frameshift variant,Deletion,Likely pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4921574,VCV004921574,NM_001372076.1(PAX9):c.48_60delinsC (p.Asn17_Pro20del),,,Indel,Likely pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,4861632,VCV004861632,NM_001372076.1(PAX9):c.282C>A (p.Asp94Glu),D94E,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4841127,VCV004841127,NM_001372076.1(PAX9):c.135G>C (p.Gln45His),Q45H,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4798524,VCV004798524,NM_001372076.1(PAX9):c.4+14G>C,,intron variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,4762614,VCV004762614,NM_001372076.1(PAX9):c.4+12C>A,,intron variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,4742788,VCV004742788,NM_001372076.1(PAX9):c.103C>G (p.Leu35Val),L35V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,4738820,VCV004738820,NM_001372076.1(PAX9):c.263G>C (p.Arg88Pro),R88P,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,4738208,VCV004738208,NM_001372076.1(PAX9):c.237T>C (p.Thr79=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,4728733,VCV004728733,NM_001372076.1(PAX9):c.556del (p.Val186fs),V186fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,4727529,VCV004727529,NC_000014.9:g.36676198del,,,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,4714276,VCV004714276,NM_001372076.1(PAX9):c.125_127del (p.Ile42del),I42del,inframe_deletion,Deletion,Likely pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,4712355,VCV004712355,NM_001372076.1(PAX9):c.631_631+1del,,splice donor variant,Deletion,Likely pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,4698287,VCV004698287,NM_001372076.1(PAX9):c.229C>G (p.Arg77Gly),R77G,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,4694190,VCV004694190,NM_001372076.1(PAX9):c.4+17G>A,,intron variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,4685026,VCV004685026,NM_001372076.1(PAX9):c.314G>C (p.Arg105Pro),R105P,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,4626997,VCV004626997,NM_001372076.1(PAX9):c.994G>T (p.Gly332Cys),G332C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4626996,VCV004626996,NM_001372076.1(PAX9):c.656G>A (p.Ser219Asn),S219N,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4626995,VCV004626995,NM_001372076.1(PAX9):c.859A>T (p.Met287Leu),M287L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4626994,VCV004626994,NM_001372076.1(PAX9):c.439C>A (p.Gln147Lys),Q147K,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4396678,VCV004396678,NM_001372076.1(PAX9):c.772-3C>G,,intron variant,single nucleotide variant,,,
+PAX9,4396677,VCV004396677,NM_001372076.1(PAX9):c.771+1G>A,,splice donor variant,single nucleotide variant,,,
+PAX9,4396675,VCV004396675,NM_001372076.1(PAX9):c.761A>G (p.Lys254Arg),K254R,missense variant,single nucleotide variant,,,
+PAX9,4396674,VCV004396674,NM_001372076.1(PAX9):c.415C>A (p.His139Asn),H139N,missense variant,single nucleotide variant,,,
+PAX9,4131470,VCV004131470,NM_001372076.1(PAX9):c.586C>T (p.His196Tyr),H196Y,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4131469,VCV004131469,NM_001372076.1(PAX9):c.244A>G (p.Thr82Ala),T82A,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4131468,VCV004131468,NM_001372076.1(PAX9):c.842C>A (p.Ala281Asp),A281D,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4131467,VCV004131467,NM_001372076.1(PAX9):c.554C>T (p.Ser185Leu),S185L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Hypodontia;Inborn genetic diseases
+PAX9,4131466,VCV004131466,NM_001372076.1(PAX9):c.1006G>A (p.Val336Ile),V336I,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4131465,VCV004131465,NM_001372076.1(PAX9):c.443C>A (p.Pro148Gln),P148Q,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,4084558,VCV004084558,NM_001372076.1(PAX9):c.39A>G (p.Gly13=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",not provided
+PAX9,3928385,VCV003928385,NM_001372076.1(PAX9):c.559G>A (p.Ala187Thr),A187T,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3928384,VCV003928384,NM_001372076.1(PAX9):c.953C>T (p.Pro318Leu),P318L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3928383,VCV003928383,NM_001372076.1(PAX9):c.619A>G (p.Ile207Val),I207V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3911036,VCV003911036,NM_001372076.1(PAX9):c.715C>A (p.His239Asn),H239N,missense variant,single nucleotide variant,Benign,"criteria provided, single submitter",not specified
+PAX9,3891911,VCV003891911,NM_001372076.1(PAX9):c.593_598dup (p.Thr199_Asp200insValThr),,inframe_insertion,Duplication,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3891910,VCV003891910,NM_001372076.1(PAX9):c.751C>A (p.Gln251Lys),Q251K,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3886000,VCV003886000,NM_001372076.1(PAX9):c.613C>T (p.Arg205Cys),R205C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3885999,VCV003885999,NM_001372076.1(PAX9):c.815C>G (p.Ser272Cys),S272C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3885998,VCV003885998,NM_001372076.1(PAX9):c.1006G>C (p.Val336Leu),V336L,missense variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not specified;Inborn genetic diseases
+PAX9,3885997,VCV003885997,NM_001372076.1(PAX9):c.914C>A (p.Ala305Asp),A305D,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3777737,VCV003777737,NM_001372076.1(PAX9):c.317T>G (p.Leu106Arg),L106R,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3716367,VCV003716367,NM_001372076.1(PAX9):c.631+14G>A,,intron variant,single nucleotide variant,Benign,"criteria provided, single submitter",Hypodontia
+PAX9,3711817,VCV003711817,NM_001372076.1(PAX9):c.530C>T (p.Pro177Leu),P177L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3710919,VCV003710919,NM_001372076.1(PAX9):c.45C>T (p.Phe15=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,3705636,VCV003705636,NM_001372076.1(PAX9):c.123C>T (p.Asp41=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,3705370,VCV003705370,NM_001372076.1(PAX9):c.40G>C (p.Val14Leu),V14L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3688458,VCV003688458,NM_001372076.1(PAX9):c.1A>C (p.Met1Leu),M1L,missense variant;initiator_codon_variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,3660010,VCV003660010,NM_001372076.1(PAX9):c.253_259del (p.Lys85fs),K85fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,3654880,VCV003654880,NM_001372076.1(PAX9):c.107G>T (p.Gly36Val),G36V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3654157,VCV003654157,NM_001372076.1(PAX9):c.337_345del (p.Asp113_Tyr115del),,,Deletion,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3645480,VCV003645480,NM_001372076.1(PAX9):c.335G>T (p.Cys112Phe),C112F,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3644489,VCV003644489,NM_001372076.1(PAX9):c.258_259del (p.Ile87fs),I87fs,frameshift variant,Microsatellite,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,3628471,VCV003628471,NM_001372076.1(PAX9):c.684G>A (p.Leu228=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,3613449,VCV003613449,NM_001372076.1(PAX9):c.776C>A (p.Pro259Gln),P259Q,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,3576569,VCV003576569,NM_001372076.1(PAX9):c.95T>C (p.Leu32Pro),L32P,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,3414578,VCV003414578,NM_001372076.1(PAX9):c.719C>T (p.Ala240Val),A240V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3414577,VCV003414577,NM_001372076.1(PAX9):c.172G>A (p.Ala58Thr),A58T,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3414576,VCV003414576,NM_001372076.1(PAX9):c.703G>T (p.Ala235Ser),A235S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3414575,VCV003414575,NM_001372076.1(PAX9):c.554C>G (p.Ser185Trp),S185W,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3381209,VCV003381209,NM_001372076.1(PAX9):c.670G>T (p.Glu224Ter),E224*,nonsense,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3349822,VCV003349822,NM_001372076.1(PAX9):c.720G>A (p.Ala240=),,synonymous variant,single nucleotide variant,Likely benign,no assertion criteria provided,PAX9-related disorder
+PAX9,3304479,VCV003304479,NM_001372076.1(PAX9):c.641G>T (p.Ser214Ile),S214I,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,3254837,VCV003254837,NM_001372076.1(PAX9):c.356C>T (p.Ser119Phe),S119F,missense variant,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3243943,VCV003243943,NC_000014.8:g.(?_37135647)_(37135826_?)del,,,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,3057731,VCV003057731,NM_001372076.1(PAX9):c.504G>A (p.Ala168=),,synonymous variant,single nucleotide variant,Likely benign,no assertion criteria provided,PAX9-related disorder
+PAX9,3032991,VCV003032991,NM_001372076.1(PAX9):c.514_516delinsCAA (p.Lys172Gln),K172Q,missense variant,Indel,Uncertain significance,no assertion criteria provided,PAX9-related disorder
+PAX9,3032155,VCV003032155,NM_001372076.1(PAX9):c.130C>T (p.Arg44Cys),R44C,missense variant,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,3030665,VCV003030665,NM_001372076.1(PAX9):c.4+10G>A,,intron variant,single nucleotide variant,Likely benign,no assertion criteria provided,PAX9-related disorder
+PAX9,3022099,VCV003022099,NM_001372076.1(PAX9):c.393C>T (p.Ile131=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2884849,VCV002884849,NM_001372076.1(PAX9):c.954G>A (p.Pro318=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2857478,VCV002857478,NM_001372076.1(PAX9):c.437A>G (p.His146Arg),H146R,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,2849976,VCV002849976,NM_001372076.1(PAX9):c.565C>T (p.Pro189Ser),P189S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,2821128,VCV002821128,NM_001372076.1(PAX9):c.772-2A>G,,splice acceptor variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,2814643,VCV002814643,NM_001372076.1(PAX9):c.771+3G>T,,intron variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,2738276,VCV002738276,NM_001372076.1(PAX9):c.480C>T (p.Tyr160=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2730464,VCV002730464,NM_001372076.1(PAX9):c.606G>A (p.Leu202=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2718535,VCV002718535,NM_001372076.1(PAX9):c.156C>T (p.Cys52=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2671803,VCV002671803,NM_001372076.1(PAX9):c.637dup (p.Asp213fs),D213fs,frameshift variant,Duplication,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,2671802,VCV002671802,NM_001372076.1(PAX9):c.771G>A (p.Gln257=),,synonymous variant,single nucleotide variant,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,2636409,VCV002636409,NM_001372076.1(PAX9):c.139del (p.Arg47fs),R47fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,2630589,VCV002630589,NM_001372076.1(PAX9):c.508_511dup (p.Ala171fs),A171fs,frameshift variant,Duplication,Likely pathogenic,"criteria provided, single submitter",PAX9-related disorder
+PAX9,2577677,VCV002577677,NM_001372076.1(PAX9):c.295G>T (p.Ala99Ser),A99S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,2577033,VCV002577033,NM_001372076.1(PAX9):c.395del (p.Gly132fs),G132fs,frameshift variant,Deletion,Likely pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,2577032,VCV002577032,NM_001372076.1(PAX9):c.365C>A (p.Ser122Tyr),S122Y,missense variant,single nucleotide variant,Likely pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,2577031,VCV002577031,NM_001372076.1(PAX9):c.305del (p.Ile102fs),I102fs,frameshift variant,Deletion,Likely pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,2577030,VCV002577030,NM_001372076.1(PAX9):c.191del (p.Gly64fs),G64fs,frameshift variant,Deletion,Likely pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,2577026,VCV002577026,NM_001372076.1(PAX9):c.112C>T (p.Arg38Ter),R38*,nonsense,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts","PAX9-related disorder;Tooth agenesis, selective, 3"
+PAX9,2577025,VCV002577025,NM_001372076.1(PAX9):c.133_136del (p.Gln45fs),Q45fs,frameshift variant,Deletion,Likely pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,2576140,VCV002576140,NM_001372076.1(PAX9):c.28C>A (p.Gln10Lys),Q10K,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,2575940,VCV002575940,NM_001372076.1(PAX9):c.247G>T (p.Val83Leu),V83L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,2486001,VCV002486001,NM_001372076.1(PAX9):c.709G>T (p.Ala237Ser),A237S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,2474881,VCV002474881,NM_001372076.1(PAX9):c.775C>T (p.Pro259Ser),P259S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Inborn genetic diseases;PAX9-related disorder;not provided
+PAX9,2416543,VCV002416543,NM_001372076.1(PAX9):c.771+20G>T,,intron variant,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified;Hypodontia
+PAX9,2353429,VCV002353429,NM_001372076.1(PAX9):c.1007T>C (p.Val336Ala),V336A,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Hypodontia;Inborn genetic diseases
+PAX9,2290358,VCV002290358,NM_001372076.1(PAX9):c.1013C>T (p.Ala338Val),A338V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,2281918,VCV002281918,NM_001372076.1(PAX9):c.22G>A (p.Val8Met),V8M,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,2278678,VCV002278678,NM_001372076.1(PAX9):c.930G>T (p.Leu310Phe),L310F,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,2179288,VCV002179288,NM_001372076.1(PAX9):c.343T>C (p.Tyr115His),Y115H,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,2094636,VCV002094636,NM_001372076.1(PAX9):c.285del (p.Gly96fs),G96fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,2055778,VCV002055778,NM_001372076.1(PAX9):c.458C>A (p.Ala153Glu),A153E,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Inborn genetic diseases;Hypodontia
+PAX9,2022895,VCV002022895,NM_001372076.1(PAX9):c.593_596dup (p.Asp200fs),D200fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,2019454,VCV002019454,NM_001372076.1(PAX9):c.438C>T (p.His146=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,2002337,VCV002002337,NM_001372076.1(PAX9):c.232G>C (p.Val78Leu),V78L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1999853,VCV001999853,NM_001372076.1(PAX9):c.77G>A (p.Arg26Gln),R26Q,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1908697,VCV001908697,NM_001372076.1(PAX9):c.569G>A (p.Arg190His),R190H,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1721820,VCV001721820,NM_001372076.1(PAX9):c.248T>G (p.Val83Gly),V83G,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1710579,VCV001710579,NM_001372076.1(PAX9):c.433C>T (p.Gln145Ter),Q145*,nonsense,single nucleotide variant,Pathogenic,"criteria provided, single submitter",not provided
+PAX9,1697312,VCV001697312,NM_001372076.1(PAX9):c.487_490dup (p.Ser164fs),S164fs,frameshift variant,Duplication,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,1693562,VCV001693562,NM_001372076.1(PAX9):c.191G>T (p.Gly64Val),G64V,missense variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,1693561,VCV001693561,NM_001372076.1(PAX9):c.648dup (p.Tyr217fs),Y217fs,frameshift variant,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,1693560,VCV001693560,NM_001372076.1(PAX9):c.354del (p.Ser119fs),S119fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,1597367,VCV001597367,NC_000014.9:g.36659359C>A,,intron variant,single nucleotide variant,Benign,"criteria provided, single submitter",Hypodontia
+PAX9,1458120,VCV001458120,NM_001372076.1(PAX9):c.428dup (p.Tyr143Ter),Y143*,nonsense,Duplication,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1376418,VCV001376418,NM_001372076.1(PAX9):c.184G>A (p.Glu62Lys),E62K,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1360368,VCV001360368,NM_001372076.1(PAX9):c.844_845insTTGC (p.Gln282fs),Q282fs,frameshift variant,Insertion,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1351539,VCV001351539,NM_001372076.1(PAX9):c.420C>A (p.Tyr140Ter),Y140*,nonsense,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1351209,VCV001351209,NM_001372076.1(PAX9):c.482C>A (p.Ser161Ter),S161*,nonsense,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1341363,VCV001341363,NM_001372076.1(PAX9):c.350T>G (p.Val117Gly),V117G,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,1309239,VCV001309239,NM_001372076.1(PAX9):c.25A>G (p.Asn9Asp),N9D,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,1300262,VCV001300262,NM_001372076.1(PAX9):c.218G>T (p.Gly73Val),G73V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",not provided
+PAX9,1296023,VCV001296023,NM_001372076.1(PAX9):c.5-41A>G,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",not provided
+PAX9,1276366,VCV001276366,NM_001372076.1(PAX9):c.771+304A>G,,intron variant,single nucleotide variant,Benign,"criteria provided, single submitter",not provided
+PAX9,1256974,VCV001256974,NM_001372076.1(PAX9):c.631+175A>T,,intron variant,single nucleotide variant,Benign,"criteria provided, single submitter",not provided
+PAX9,1250848,VCV001250848,NM_001372076.1(PAX9):c.632-62G>C,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",not provided
+PAX9,1242268,VCV001242268,NM_001372076.1(PAX9):c.5-109G>C,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",not provided
+PAX9,1235428,VCV001235428,NM_001372076.1(PAX9):c.5-82G>A,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",not provided
+PAX9,1223900,VCV001223900,NM_001372076.1(PAX9):c.5-54A>G,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",not provided
+PAX9,1169469,VCV001169469,NM_001372076.1(PAX9):c.30G>A (p.Gln10=),,synonymous variant,single nucleotide variant,Benign,"criteria provided, single submitter",Hypodontia
+PAX9,1143974,VCV001143974,NM_001372076.1(PAX9):c.428A>G (p.Tyr143Cys),Y143C,missense variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not provided;Hypodontia;PAX9-related disorder
+PAX9,1119978,VCV001119978,NM_001372076.1(PAX9):c.152G>T (p.Gly51Val),G51V,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,1076521,VCV001076521,NM_001372076.1(PAX9):c.72_76dup (p.Arg26fs),R26fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1075023,VCV001075023,NM_001372076.1(PAX9):c.608del (p.Gly203fs),G203fs,frameshift variant,Deletion,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1070666,VCV001070666,NM_001372076.1(PAX9):c.451C>T (p.Gln151Ter),Q151*,nonsense,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1064707,VCV001064707,NM_001372076.1(PAX9):c.409C>T (p.Gln137Ter),Q137*,nonsense,single nucleotide variant,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,1064706,VCV001064706,NM_001372076.1(PAX9):c.243del (p.Thr82fs),T82fs,frameshift variant,Deletion,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,1064705,VCV001064705,NM_001372076.1(PAX9):c.140G>C (p.Arg47Pro),R47P,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,Oligodontia
+PAX9,1064704,VCV001064704,NM_001372076.1(PAX9):c.146C>T (p.Ser49Leu),S49L,missense variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,1037706,VCV001037706,NM_001372076.1(PAX9):c.959C>T (p.Ser320Leu),S320L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1009882,VCV001009882,NM_001372076.1(PAX9):c.290T>A (p.Ile97Asn),I97N,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,1003958,VCV001003958,NC_000014.8:g.(?_37145383)_(37145677_?)del,,,Deletion,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,975792,VCV000975792,NM_001372076.1(PAX9):c.230G>A (p.Arg77Gln),R77Q,missense variant,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,955304,VCV000955304,NM_001372076.1(PAX9):c.99_116del (p.Gln34_Pro39del),,inframe_deletion,Deletion,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,950714,VCV000950714,NM_001372076.1(PAX9):c.346A>T (p.Asn116Tyr),N116Y,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,884034,VCV000884034,NM_001372076.1(PAX9):c.*1066A>C,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,884033,VCV000884033,NM_001372076.1(PAX9):c.*825T>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,884032,VCV000884032,NM_001372076.1(PAX9):c.*775C>T,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,884031,VCV000884031,NM_001372076.1(PAX9):c.*663C>T,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,884030,VCV000884030,NM_001372076.1(PAX9):c.*640T>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,883963,VCV000883963,NM_001372076.1(PAX9):c.323C>T (p.Ala108Val),A108V,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,883962,VCV000883962,NM_001372076.1(PAX9):c.192C>T (p.Gly64=),,synonymous variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,883961,VCV000883961,NM_001372076.1(PAX9):c.-67A>G,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,883234,VCV000883234,NM_001372076.1(PAX9):c.*506A>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,883233,VCV000883233,NM_001372076.1(PAX9):c.*288C>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,883181,VCV000883181,NM_001372076.1(PAX9):c.-175G>C,,5 prime UTR variant,single nucleotide variant,Likely benign,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,882086,VCV000882086,NM_001372076.1(PAX9):c.*257G>A,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,882085,VCV000882085,NM_001372076.1(PAX9):c.*59C>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,882084,VCV000882084,NM_001372076.1(PAX9):c.*12G>T,,3 prime UTR variant,single nucleotide variant,Likely benign,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,882083,VCV000882083,NM_001372076.1(PAX9):c.750G>T (p.Glu250Asp),E250D,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts","Inborn genetic diseases;not provided;Tooth agenesis, selective, 3"
+PAX9,882016,VCV000882016,NM_006194.4(PAX9):c.-644G>A,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,880672,VCV000880672,NM_001372076.1(PAX9):c.689G>A (p.Arg230His),R230H,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts","Tooth agenesis, selective, 3;PAX9-related disorder"
+PAX9,880671,VCV000880671,NM_001372076.1(PAX9):c.600C>T (p.Asp200=),,synonymous variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,858946,VCV000858946,NM_001372076.1(PAX9):c.930G>C (p.Leu310Phe),L310F,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,817799,VCV000817799,NM_001372076.1(PAX9):c.543dup (p.Ile182fs),I182fs,frameshift variant,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,767464,VCV000767464,NM_001372076.1(PAX9):c.679A>C (p.Ser227Arg),S227R,missense variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,759016,VCV000759016,NM_001372076.1(PAX9):c.640A>G (p.Ser214Gly),S214G,missense variant,single nucleotide variant,Likely benign,"criteria provided, single submitter",Hypodontia
+PAX9,742437,VCV000742437,NM_001372076.1(PAX9):c.774A>T (p.Ala258=),,synonymous variant,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",Hypodontia;not provided
+PAX9,666317,VCV000666317,NM_001372076.1(PAX9):c.51C>G (p.Asn17Lys),N17K,missense variant,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,660509,VCV000660509,NM_001372076.1(PAX9):c.683T>C (p.Leu228Pro),L228P,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,649310,VCV000649310,NM_001372076.1(PAX9):c.2T>A (p.Met1Lys),M1K,missense variant;initiator_codon_variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,639634,VCV000639634,NM_001372076.1(PAX9):c.697T>C (p.Phe233Leu),F233L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Inborn genetic diseases;Hypodontia
+PAX9,572978,VCV000572978,NM_001372076.1(PAX9):c.689G>T (p.Arg230Leu),R230L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",not provided;Hypodontia
+PAX9,526772,VCV000526772,NM_001372076.1(PAX9):c.180C>A (p.Tyr60Ter),Y60*,nonsense,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,521952,VCV000521952,NM_001372076.1(PAX9):c.217G>T (p.Gly73Cys),G73C,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,521920,VCV000521920,NM_001372076.1(PAX9):c.464_465dup (p.Tyr156fs),Y156fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,521563,VCV000521563,NM_001372076.1(PAX9):c.188C>G (p.Thr63Arg),T63R,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Inborn genetic diseases
+PAX9,456653,VCV000456653,NM_001372076.1(PAX9):c.609C>T (p.Gly203=),,synonymous variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications","not specified;Tooth agenesis, selective, 3;not provided;Hypodontia"
+PAX9,430692,VCV000430692,NC_000014.9:g.36662092G>A,,,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,418946,VCV000418946,NM_001372076.1(PAX9):c.114_117dup (p.Cys40fs),C40fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter",not provided
+PAX9,375454,VCV000375454,NM_001372076.1(PAX9):c.59C>T (p.Pro20Leu),P20L,missense variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,373036,VCV000373036,NM_001372076.1(PAX9):c.325_331dup (p.Val111fs),V111fs,frameshift variant,Duplication,Pathogenic,"criteria provided, single submitter",not provided
+PAX9,313185,VCV000313185,NM_001372076.1(PAX9):c.*902G>A,,3 prime UTR variant,single nucleotide variant,Likely benign,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313184,VCV000313184,NM_001372076.1(PAX9):c.*901C>T,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313183,VCV000313183,NM_001372076.1(PAX9):c.*818C>T,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313182,VCV000313182,NM_001372076.1(PAX9):c.*554G>C,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313180,VCV000313180,NM_001372076.1(PAX9):c.*511T>C,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313179,VCV000313179,NM_001372076.1(PAX9):c.*429T>C,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313177,VCV000313177,NM_001372076.1(PAX9):c.*328T>A,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313176,VCV000313176,NM_001372076.1(PAX9):c.*263A>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313175,VCV000313175,NM_001372076.1(PAX9):c.*259C>T,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313174,VCV000313174,NM_001372076.1(PAX9):c.*231T>G,,3 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313173,VCV000313173,NM_001372076.1(PAX9):c.*206T>C,,3 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313172,VCV000313172,NM_001372076.1(PAX9):c.1020G>A (p.Ala340=),,synonymous variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313171,VCV000313171,NM_001372076.1(PAX9):c.717C>T (p.His239=),,synonymous variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Hypodontia;Tooth agenesis, selective, 3"
+PAX9,313170,VCV000313170,NM_001372076.1(PAX9):c.623C>G (p.Thr208Ser),T208S,missense variant,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts","not provided;Hypodontia;Tooth agenesis, selective, 3"
+PAX9,313169,VCV000313169,NM_001372076.1(PAX9):c.524C>T (p.Thr175Met),T175M,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,313168,VCV000313168,NM_001372076.1(PAX9):c.516G>A (p.Lys172=),,synonymous variant,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts","Hypodontia;not provided;Tooth agenesis, selective, 3"
+PAX9,313167,VCV000313167,NM_001372076.1(PAX9):c.511G>A (p.Ala171Thr),A171T,missense variant,single nucleotide variant,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications","Hypodontia;Tooth agenesis, selective, 3"
+PAX9,313166,VCV000313166,NM_001372076.1(PAX9):c.289A>C (p.Ile97Leu),I97L,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313165,VCV000313165,NM_001372076.1(PAX9):c.150C>T (p.His50=),,synonymous variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313164,VCV000313164,NM_001372076.1(PAX9):c.6G>A (p.Glu2=),,synonymous variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313163,VCV000313163,NM_001372076.1(PAX9):c.-65G>A,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313162,VCV000313162,NM_001372076.1(PAX9):c.-119A>T,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313161,VCV000313161,NM_001372076.1(PAX9):c.-186C>A,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313160,VCV000313160,NM_001372076.1(PAX9):c.-218G>A,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313159,VCV000313159,NM_006194.4(PAX9):c.-244G>T,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313156,VCV000313156,NM_006194.4(PAX9):c.-394+15G>C,,intron variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313155,VCV000313155,NM_006194.4(PAX9):c.-455C>G,,5 prime UTR variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not provided;Tooth agenesis, selective, 3"
+PAX9,313154,VCV000313154,NM_006194.4(PAX9):c.-488C>T,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313153,VCV000313153,NM_006194.4(PAX9):c.-553C>A,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313151,VCV000313151,NM_006194.4(PAX9):c.-656C>G,,5 prime UTR variant,single nucleotide variant,Likely benign,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,313150,VCV000313150,NM_006194.4(PAX9):c.-719C>T,,5 prime UTR variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter","Tooth agenesis, selective, 3"
+PAX9,259937,VCV000259937,NM_001372076.1(PAX9):c.718G>C (p.Ala240Pro),A240P,missense variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts","not specified;Hypodontia;not provided;Tooth agenesis, selective, 3"
+PAX9,225820,VCV000225820,NM_001372076.1(PAX9):c.631+41G>A,,intron variant,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",Hypodontia;not provided
+PAX9,155939,VCV000155939,NM_001372076.1(PAX9):c.336C>G (p.Cys112Trp),C112W,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,145602,VCV000145602,GRCh38/hg38 14q13.3(chr14:36662199-36671907)x3,,,copy number gain,Likely benign,no assertion criteria provided,See cases
+PAX9,13781,VCV000013781,NM_001372076.1(PAX9):c.139C>T (p.Arg47Trp),R47W,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13780,VCV000013780,"PAX9, 1-BP INS, 190G",,,Insertion,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13779,VCV000013779,NM_001372076.1(PAX9):c.151G>A (p.Gly51Ser),G51S,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,13778,VCV000013778,NM_001372076.1(PAX9):c.619_621delinsTACCGACCAAGGTAGGGCATCCCT (p.Ile207delinsTyrArgProArgTer),,nonsense,Indel,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13777,VCV000013777,NM_001372076.1(PAX9):c.1A>G (p.Met1Val),M1V,missense variant;initiator_codon_variant,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13776,VCV000013776,NM_001372076.1(PAX9):c.792_793insC (p.Val265fs),V265fs,frameshift variant,Insertion,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13775,VCV000013775,NM_001372076.1(PAX9):c.259A>T (p.Ile87Phe),I87F,missense variant,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",Hypodontia
+PAX9,13774,VCV000013774,NM_001372076.1(PAX9):c.76C>T (p.Arg26Trp),R26W,missense variant,single nucleotide variant,Pathogenic,"criteria provided, single submitter",Hypodontia
+PAX9,13773,VCV000013773,NM_001372076.1(PAX9):c.83G>C (p.Arg28Pro),R28P,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13772,VCV000013772,NM_001372076.1(PAX9):c.176_182delinsAGCCACACAGTCTTGCCACACACAGTCTTCTGCCTCATCTCAAACTACCAGACCCATAACATCCCCCCATCCCAACACATGGTTCGCATTTTCCACCTCCCCCGCCTCTCGCGCCGAGGCAGCCTCAGCCCGGCTTGCTCACTTGGAGAGTGCGGCCGGGGCTGGACTTGGGGCGCAGCCCGGGAGGCCCGAGCCTGCTTGGGGCTGCCGGCTGCAGACTCCGCTGTGGGCAGAGCAGCTTGCTTGGGGACTACTACGGCCGGGATCGGTAATCAGGCCAAGAT (p.Arg59_Asn61delinsGlnProHisSerLeuAlaThrHisSerLeuLeuProHisLeuLysLeuProAspProTer),,nonsense,Indel,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13771,VCV000013771,NM_001372076.1(PAX9):c.62T>C (p.Leu21Pro),L21P,missense variant,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13770,VCV000013770,NM_001372076.1(PAX9):c.271A>G (p.Lys91Glu),K91E,missense variant,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",PAX9-related disorder;Hypodontia;not provided
+PAX9,13768,VCV000013768,NM_001372076.1(PAX9):c.340A>T (p.Lys114Ter),K114*,nonsense,single nucleotide variant,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"
+PAX9,13767,VCV000013767,NM_001372076.1(PAX9):c.218dup (p.Ser74fs),S74fs,frameshift variant,Duplication,Pathogenic,no assertion criteria provided,"Tooth agenesis, selective, 3"

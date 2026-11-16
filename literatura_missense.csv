@@ -1,0 +1,40 @@
+gene,variante,regiao_fonte,fonte_revisao,referencia_original
+PAX9,G6R,NSD,Intarak 2023 Supl.,Wang et al. 2008
+PAX9,F15I,NSD,Intarak 2023 Supl.,Wang et al. 2012
+PAX9,N16I,NSD,Intarak 2023 Supl.,Shahid et al. 2016
+PAX9,L21P,NSD,Intarak 2023 Supl.,Das et al. 2003
+PAX9,R26W,NSD,Intarak 2023 Supl.,Lammi et al. 2003
+PAX9,L27P,NSD,Intarak 2023 Supl.,Liang et al. 2012
+PAX9,R28P,NSD,Intarak 2023 Supl.,Jumlongras et al. 2004
+PAX9,I29T,NSD,Intarak 2023 Supl.,Liang et al. 2012
+PAX9,S43K,NSD,Intarak 2023 Supl.,Wang et al. 2008 (troca de dois nucleotídeos)
+PAX9,R47W,NSD,Intarak 2023 Supl.,Zhao et al. 2007
+PAX9,R47P,NSD,Intarak 2023 Supl.,Arte et al. 2013
+PAX9,S49L,NSD,Intarak 2023 Supl.,Mitsui et al. 2014
+PAX9,G51S,NSD,Intarak 2023 Supl.,Mostowska et al. 2003
+PAX9,G51A,NSD,Intarak 2023 Supl.,Bergendal et al. 2011
+PAX9,I56T,NSD,Intarak 2023 Supl.,Arte et al. 2013
+PAX9,I56N,NSD,Intarak 2023 Supl.,Wong et al. 2018
+PAX9,G64V,linking peptide,Intarak 2023 Supl.,Liu et al. 2022
+PAX9,R77G,linking peptide,Intarak 2023 Supl.,Sun et al. 2021
+PAX9,R77Q,linking peptide,Intarak 2023 Supl.,Intarak et al. 2022
+PAX9,T80A,linking peptide,Intarak 2023 Supl.,Bergendal et al. 2011
+PAX9,I87F,CSD,Intarak 2023 Supl.,Kapadia et al. 2006
+PAX9,K91E,CSD,Intarak 2023 Supl.,Das et al. 2003
+PAX9,A99P,CSD,Intarak 2023 Supl.,Daw et al. 2017
+PAX9,A108P,CSD,Intarak 2023 Supl.,Wong et al. 2018
+PAX9,V111M,CSD,Intarak 2023 Supl.,Zhang et al. 2018
+PAX9,V117G,CSD,Intarak 2023 Supl.,Liu et al. 2022
+PAX9,Y143C,C-terminus,Intarak 2023 Supl.,Bergendal et al. 2011
+PAX9,A168G,C-terminus,Intarak 2023 Supl.,Boiere et al. 2013
+PAX9,M1V,códon de início,Intarak 2023 Supl.,Klein et al. 2005
+PAX9,M1R,códon de início,Intarak 2023 Supl.,Liang et al. 2016
+PAX9,M1K,códon de início,Intarak 2023 Supl.,Koskinen et al. 2019
+PAX9,M1I,códon de início,Intarak 2023 Supl.,Sarkar et al. 2017
+MSX1,M67K,fora do homeobox,Liang 2016 Tab. 2,Lidral & Reising 2002
+MSX1,T180I,homeobox,Liang 2016 Tab. 2,Yamaguchi et al. 2014
+MSX1,R202P,homeobox,Liang 2016 Tab. 2,Vastardis et al. 1996
+MSX1,L211R,homeobox,Liang 2016 Tab. 2,Yamaguchi et al. 2014
+MSX1,A225T,homeobox,Liang 2016 Tab. 2,Chishti et al. 2006 (recessiva)
+MSX1,A227E,homeobox,Liang 2016 Tab. 2,Xuan et al. 2008
+MSX1,L230P,homeobox,Liang 2016 Tab. 2,Mostowska et al. 2012

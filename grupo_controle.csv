@@ -1,0 +1,223 @@
+﻿gene,variante,grupo,gnomad_ac,gnomad_af,clinvar,dist_dna,contato_dna,ddg_thermompnn,alphamissense
+MSX1,N172K,controle_gnomad,1,6.84e-07,,4.2,nao,0.06,0.9973
+MSX1,R173C,controle_gnomad,1,6.84e-07,,3.0,sim,0.2,0.9995
+MSX1,R173G,controle_gnomad,2,1.37e-06,,3.0,sim,0.44,0.9986
+MSX1,R173H,controle_gnomad,1,6.57e-06,Uncertain significance,3.0,sim,0.33,0.999
+MSX1,R173L,controle_gnomad,3,2.05e-06,,3.0,sim,0.21,0.9992
+MSX1,R173P,controle_gnomad,2,1.37e-06,,3.0,sim,0.54,0.995
+MSX1,R176W,controle_gnomad,1,6.84e-07,,2.9,sim,0.03,0.9997
+MSX1,P178A,controle_gnomad,2,1.37e-06,,5.0,nao,-0.04,0.9826
+MSX1,P178L,controle_gnomad,1,6.84e-07,,5.0,nao,-0.12,0.9972
+MSX1,P178S,controle_gnomad,1,6.84e-07,,5.0,nao,0.0,0.9984
+MSX1,T180I,patogenica,0,,,7.6,nao,1.67,0.9998
+MSX1,T180N,controle_gnomad,1,6.57e-06,,7.6,nao,0.71,0.9753
+MSX1,T180S,controle_gnomad,1,6.84e-07,,7.6,nao,0.11,0.6758
+MSX1,A182S,controle_gnomad,9,6.16e-06,Uncertain significance,10.8,nao,0.14,0.0969
+MSX1,A182T,controle_gnomad,8,4.96e-06,Uncertain significance,10.8,nao,0.19,0.1942
+MSX1,A182V,controle_gnomad,23,1.43e-05,Uncertain significance,10.8,nao,0.09,0.5284
+MSX1,A186E,controle_gnomad,2,1.24e-06,,11.3,nao,0.61,0.9632
+MSX1,R189C,controle_gnomad,1,6.84e-07,,12.5,nao,-0.08,0.9619
+MSX1,R189G,controle_gnomad,9,5.58e-06,,12.5,nao,0.7,0.9371
+MSX1,R189H,controle_gnomad,3,2.05e-06,,12.5,nao,0.27,0.7698
+MSX1,K190R,controle_gnomad,48,3.28e-05,Uncertain significance,11.7,nao,-0.09,0.5628
+MSX1,R192C,controle_gnomad,1,6.84e-07,,12.4,nao,0.04,0.7221
+MSX1,R192H,controle_gnomad,3,2.05e-06,,12.4,nao,0.29,0.4034
+MSX1,R192L,controle_gnomad,1,6.84e-07,,12.4,nao,0.07,0.8751
+MSX1,Q193H,controle_gnomad,6,3.10e-06,,13.4,nao,0.33,0.891
+MSX1,Q193R,controle_gnomad,2,1.37e-06,,13.4,nao,0.26,0.7811
+MSX1,K194R,controle_gnomad,363,2.25e-04,Uncertain significance,9.5,nao,-0.02,0.7241
+MSX1,Q195K,controle_gnomad,1,6.84e-07,,6.4,nao,-0.14,0.9597
+MSX1,Q195P,controle_gnomad,2,1.37e-06,,6.4,nao,0.06,0.9712
+MSX1,I199V,controle_gnomad,8,5.47e-06,,4.7,nao,0.05,0.7169
+MSX1,A200T,controle_gnomad,14,9.58e-06,,8.6,nao,0.1,0.9846
+MSX1,E201Q,controle_gnomad,1,6.84e-07,,9.2,nao,0.67,0.9924
+MSX1,R202C,controle_gnomad,1,6.84e-07,,2.2,sim,-0.07,0.9998
+MSX1,R202G,controle_gnomad,2,1.31e-05,,2.2,sim,1.31,0.9992
+MSX1,R202H,patogenica,0,,Pathogenic/Likely pathogenic,2.2,sim,0.8,0.9997
+MSX1,R202P,patogenica,0,,Pathogenic,2.2,sim,1.52,0.9999
+MSX1,A203S,controle_gnomad,17,1.16e-05,,8.6,nao,0.15,0.8793
+MSX1,A203V,controle_gnomad,6,3.72e-06,,8.6,nao,-0.13,0.9959
+MSX1,E204D,controle_gnomad,4,2.74e-06,,11.4,nao,0.47,0.9396
+MSX1,E204K,controle_gnomad,1,6.84e-07,,11.4,nao,-0.03,0.9931
+MSX1,F205L,controle_gnomad,1,6.84e-07,,11.5,nao,0.75,0.9999
+MSX1,F205S,controle_gnomad,1,6.84e-07,,11.5,nao,2.3,1.0
+MSX1,S206A,controle_gnomad,1,6.84e-07,,10.2,nao,-0.72,0.5885
+MSX1,S206C,controle_gnomad,2,1.37e-06,,10.2,nao,0.42,0.9606
+MSX1,S207G,controle_gnomad,1,6.84e-07,,13.2,nao,0.36,0.1783
+MSX1,S208L,controle_gnomad,2,1.37e-06,,15.1,nao,0.02,0.6273
+MSX1,S208W,controle_gnomad,12,7.44e-06,Uncertain significance,15.1,nao,0.09,0.9587
+MSX1,S210C,controle_gnomad,1,6.84e-07,,10.4,nao,-0.21,0.1466
+MSX1,S210N,controle_gnomad,143,8.86e-05,Likely benign,10.4,nao,-0.41,0.2125
+MSX1,L211R,patogenica,0,,,7.4,nao,2.23,0.9993
+MSX1,T214M,controle_gnomad,20,1.24e-05,Uncertain significance,5.9,nao,0.22,0.9986
+MSX1,Q215R,controle_gnomad,2,1.37e-06,,3.9,sim,1.69,0.9984
+MSX1,V216E,controle_gnomad,1,6.84e-07,,6.5,nao,2.9,0.9998
+MSX1,I218T,controle_gnomad,1,6.84e-07,,3.2,sim,0.08,0.9999
+MSX1,W219G,controle_gnomad,1,6.84e-07,,3.4,sim,2.29,0.9997
+MSX1,N222T,controle_gnomad,1,6.84e-07,,2.9,sim,0.0,0.9999
+MSX1,R224C,controle_gnomad,2,1.37e-06,Uncertain significance,2.6,sim,0.94,0.9999
+MSX1,R224H,controle_gnomad,1,6.56e-06,,2.6,sim,1.14,0.9998
+MSX1,A225P,controle_gnomad,1,6.84e-07,,5.8,nao,1.92,0.9996
+MSX1,A225T,patogenica,0,,,5.8,nao,0.4,0.9973
+MSX1,A225V,controle_gnomad,1,6.84e-07,,5.8,nao,0.27,0.9989
+MSX1,A227E,patogenica,0,,,8.5,nao,0.34,0.9586
+MSX1,A227P,controle_gnomad,1,6.57e-06,Uncertain significance,8.5,nao,2.08,0.9998
+MSX1,L230P,patogenica,0,,,7.8,nao,1.54,0.9998
+MSX1,L230R,controle_gnomad,1,6.84e-07,,7.8,nao,0.16,0.9831
+MSX1,Q231K,controle_gnomad,1,6.84e-07,,8.9,nao,-0.0,0.8952
+PAX9,G6R,patogenica,0,,,9.5,nao,0.44,0.9992
+PAX9,V8G,controle_gnomad,1,6.20e-07,,4.5,nao,1.49,0.9493
+PAX9,V8M,controle_gnomad,4,2.48e-06,Uncertain significance,4.5,nao,0.42,0.9822
+PAX9,N9D,controle_gnomad,1,6.85e-07,Uncertain significance,2.7,sim,0.94,0.9998
+PAX9,Q10H,controle_gnomad,1,6.57e-06,,3.0,sim,-0.09,0.9999
+PAX9,Q10K,controle_gnomad,26,1.61e-05,Uncertain significance,3.0,sim,-0.05,0.9987
+PAX9,V14M,controle_gnomad,7,4.79e-06,,5.1,nao,0.29,0.7765
+PAX9,F15I,patogenica,1,6.85e-07,,3.6,sim,0.72,0.9999
+PAX9,V16M,controle_gnomad,2,1.37e-06,,5.0,nao,0.26,0.9989
+PAX9,N17K,patogenica,0,,Likely pathogenic,2.7,sim,0.15,0.9998
+PAX9,G18E,controle_gnomad,1,6.85e-07,,3.3,sim,0.95,1.0
+PAX9,G18R,controle_gnomad,1,6.85e-07,,3.3,sim,1.08,1.0
+PAX9,G18W,controle_gnomad,1,6.57e-06,,3.3,sim,1.11,1.0
+PAX9,P20L,patogenica,0,,Pathogenic,3.0,sim,0.55,0.9994
+PAX9,P20T,controle_gnomad,1,6.85e-07,,3.0,sim,0.79,0.9996
+PAX9,L21P,patogenica,0,,Pathogenic,2.8,sim,0.88,0.9999
+PAX9,P22H,controle_gnomad,2,1.37e-06,,6.1,nao,1.46,0.9996
+PAX9,N23K,controle_gnomad,1,6.84e-07,,8.0,nao,0.21,0.996
+PAX9,N23S,controle_gnomad,1,6.84e-07,,8.0,nao,0.0,0.4419
+PAX9,A24G,controle_gnomad,2,1.37e-06,,10.0,nao,0.31,0.4203
+PAX9,A24S,controle_gnomad,1,6.84e-07,,10.0,nao,0.13,0.2581
+PAX9,A24T,controle_gnomad,2,1.24e-06,,10.0,nao,0.19,0.6058
+PAX9,A24V,controle_gnomad,1,6.84e-07,,10.0,nao,0.11,0.7912
+PAX9,R26Q,controle_gnomad,1,6.84e-07,Uncertain significance,2.8,sim,1.8,0.999
+PAX9,R26W,patogenica,1,6.84e-07,Pathogenic,2.8,sim,1.36,0.9999
+PAX9,L27P,patogenica,0,,,9.6,nao,2.45,0.9996
+PAX9,R28L,controle_gnomad,1,6.84e-07,,11.5,nao,0.54,0.9879
+PAX9,R28P,patogenica,0,,Pathogenic,11.5,nao,3.26,0.9996
+PAX9,I29M,controle_gnomad,1,6.84e-07,,7.4,nao,1.39,0.9932
+PAX9,I29T,patogenica,0,,,7.4,nao,2.28,0.9999
+PAX9,L35V,controle_gnomad,1,6.57e-06,Uncertain significance,11.6,nao,0.66,0.7494
+PAX9,G36D,controle_gnomad,1,6.84e-07,,7.8,nao,1.47,0.9997
+PAX9,G36R,controle_gnomad,2,1.24e-06,,7.8,nao,1.48,0.9998
+PAX9,I37T,controle_gnomad,19,1.30e-05,,6.4,nao,0.98,0.9979
+PAX9,D41E,controle_gnomad,1,6.84e-07,,4.8,nao,-0.08,0.9969
+PAX9,D41N,controle_gnomad,1,6.84e-07,,4.8,nao,0.76,0.9984
+PAX9,S43K,patogenica,0,,,7.2,nao,1.46,1.0
+PAX9,R44C,patogenica,0,,Likely pathogenic,2.8,sim,0.4,0.9999
+PAX9,R44H,controle_gnomad,4,2.74e-06,,2.8,sim,0.65,0.9995
+PAX9,R44L,controle_gnomad,1,6.84e-07,,2.8,sim,0.24,0.9994
+PAX9,Q45H,controle_gnomad,2,6.84e-07,Uncertain significance,10.9,nao,0.19,0.9963
+PAX9,Q45K,controle_gnomad,1,6.84e-07,,10.9,nao,0.34,0.9861
+PAX9,Q45R,controle_gnomad,3,2.05e-06,,10.9,nao,0.33,0.9831
+PAX9,R47P,patogenica,0,,Pathogenic,4.5,nao,1.56,0.9996
+PAX9,R47Q,controle_gnomad,2,1.24e-06,,4.5,nao,0.27,0.9556
+PAX9,R47W,patogenica,1,6.84e-07,Pathogenic,4.5,nao,0.62,0.999
+PAX9,V48A,controle_gnomad,1,6.84e-07,,3.7,sim,1.82,0.9998
+PAX9,V48I,controle_gnomad,2,1.37e-06,,3.7,sim,-0.03,0.9727
+PAX9,S49L,patogenica,0,,Pathogenic,2.7,sim,0.46,1.0
+PAX9,G51A,patogenica,0,,,3.8,sim,-0.02,0.9998
+PAX9,G51C,controle_gnomad,2,1.37e-06,,3.8,sim,0.04,1.0
+PAX9,G51S,patogenica,0,,Uncertain significance,3.8,sim,-0.14,0.9999
+PAX9,G51V,patogenica,0,,Pathogenic,3.8,sim,0.23,1.0
+PAX9,V53I,controle_gnomad,2,1.24e-06,,6.0,nao,0.11,0.9495
+PAX9,K55N,controle_gnomad,1,6.84e-07,,3.5,sim,0.16,1.0
+PAX9,I56N,patogenica,0,,,4.5,nao,2.38,1.0
+PAX9,I56T,patogenica,0,,,4.5,nao,1.63,1.0
+PAX9,I56V,controle_gnomad,1,6.84e-07,,4.5,nao,0.53,0.9973
+PAX9,L57M,controle_gnomad,1,6.84e-07,,6.8,nao,1.14,0.9956
+PAX9,A58E,controle_gnomad,1,6.84e-07,,6.7,nao,0.07,0.996
+PAX9,A58T,controle_gnomad,2,1.31e-05,Uncertain significance,6.7,nao,0.19,0.9796
+PAX9,R59Q,controle_gnomad,1,6.84e-07,,2.8,sim,0.58,0.9993
+PAX9,N61K,controle_gnomad,3,1.24e-06,,7.7,nao,-0.27,0.9939
+PAX9,E62D,controle_gnomad,9,5.47e-06,,8.0,nao,0.37,0.9864
+PAX9,E62K,controle_gnomad,10,6.20e-06,Uncertain significance,8.0,nao,-0.25,0.9994
+PAX9,E62Q,controle_gnomad,4,2.74e-06,,8.0,nao,-0.13,0.9936
+PAX9,T63A,controle_gnomad,2,1.37e-06,,9.6,nao,1.29,0.9988
+PAX9,T63M,controle_gnomad,1,6.84e-07,,9.6,nao,1.12,0.9992
+PAX9,T63R,controle_gnomad,2,1.31e-05,Uncertain significance,9.6,nao,1.11,0.9988
+PAX9,G64V,patogenica,0,,Pathogenic,12.5,nao,1.87,0.9999
+PAX9,S65L,controle_gnomad,1,6.84e-07,,8.7,nao,1.2,0.9992
+PAX9,G69A,controle_gnomad,1,6.84e-07,,2.5,sim,-0.28,0.9961
+PAX9,A70S,controle_gnomad,1,6.84e-07,,3.0,sim,0.07,0.8638
+PAX9,I71M,controle_gnomad,1,6.84e-07,,2.9,sim,0.16,0.9932
+PAX9,I71T,controle_gnomad,1,6.84e-07,,2.9,sim,0.1,0.9984
+PAX9,G72R,controle_gnomad,2,6.84e-07,,2.8,sim,0.77,1.0
+PAX9,G73S,controle_gnomad,1,6.84e-07,,2.9,sim,0.83,0.9996
+PAX9,G73V,controle_gnomad,3,2.05e-06,Uncertain significance,2.9,sim,1.03,0.9998
+PAX9,P76S,controle_gnomad,1,6.84e-07,,3.4,sim,0.12,0.9998
+PAX9,R77G,patogenica,1,6.84e-07,Uncertain significance,2.2,sim,0.89,0.9995
+PAX9,R77Q,patogenica,0,,Likely pathogenic,2.2,sim,0.43,0.9986
+PAX9,R77W,controle_gnomad,4,2.74e-06,,2.2,sim,0.34,0.9997
+PAX9,T80A,patogenica,0,,,5.4,nao,2.05,0.9976
+PAX9,T80S,controle_gnomad,1,6.84e-07,,5.4,nao,0.91,0.9927
+PAX9,P81L,controle_gnomad,1,6.84e-07,,8.7,nao,0.43,0.9925
+PAX9,P81S,controle_gnomad,2,1.37e-06,,8.7,nao,0.32,0.9888
+PAX9,V83M,controle_gnomad,2,1.37e-06,,7.8,nao,1.87,0.9994
+PAX9,V84A,controle_gnomad,1,6.84e-07,,8.0,nao,0.9,0.999
+PAX9,H86L,controle_gnomad,1,6.84e-07,,13.6,nao,0.19,0.8551
+PAX9,I87F,patogenica,1,6.84e-07,Uncertain significance,9.4,nao,1.74,0.9999
+PAX9,I87L,controle_gnomad,1,6.84e-07,,9.4,nao,0.7,0.9977
+PAX9,R88Q,controle_gnomad,2,1.37e-06,,13.3,nao,0.32,0.6991
+PAX9,R88W,controle_gnomad,2,1.37e-06,,13.3,nao,-0.26,0.9809
+PAX9,T89A,controle_gnomad,10,6.84e-06,,14.1,nao,-0.29,0.0883
+PAX9,T89I,controle_gnomad,3,1.86e-06,,14.1,nao,-0.15,0.3271
+PAX9,Y90C,controle_gnomad,3,2.05e-06,,11.3,nao,0.5,0.9637
+PAX9,K91E,patogenica,2,1.24e-06,Likely pathogenic,5.6,nao,2.07,0.9999
+PAX9,Q92K,controle_gnomad,1,6.84e-07,,12.4,nao,0.16,0.5663
+PAX9,Q92R,controle_gnomad,1,6.84e-07,,12.4,nao,0.19,0.5958
+PAX9,D94E,controle_gnomad,37,2.29e-05,Uncertain significance,9.0,nao,0.36,0.988
+PAX9,P95A,controle_gnomad,1,6.84e-07,,7.2,nao,0.55,0.9294
+PAX9,P95T,controle_gnomad,1,6.84e-07,,7.2,nao,0.85,0.9746
+PAX9,G96S,controle_gnomad,1,6.84e-07,,5.5,nao,-0.02,0.9293
+PAX9,I97L,controle_gnomad,1,6.84e-07,Uncertain significance,4.3,nao,0.84,0.9115
+PAX9,I97V,controle_gnomad,1,6.84e-07,,4.3,nao,0.62,0.7503
+PAX9,A99P,patogenica,0,,,3.2,sim,0.53,0.9992
+PAX9,A99S,controle_gnomad,6,4.10e-06,Uncertain significance,3.2,sim,0.41,0.9507
+PAX9,A99V,controle_gnomad,1,6.57e-06,,3.2,sim,0.04,0.9999
+PAX9,E101D,controle_gnomad,1,6.84e-07,,6.0,nao,0.57,0.9999
+PAX9,I102M,controle_gnomad,1,6.84e-07,,7.2,nao,1.12,0.9966
+PAX9,R103W,controle_gnomad,1,6.84e-07,,7.5,nao,0.76,0.9998
+PAX9,D104G,controle_gnomad,1,6.84e-07,,8.9,nao,0.67,0.9975
+PAX9,R105G,controle_gnomad,3,2.05e-06,,12.5,nao,1.27,0.9902
+PAX9,R105H,controle_gnomad,3,2.05e-06,,12.5,nao,0.71,0.7936
+PAX9,R105L,controle_gnomad,1,6.84e-07,,12.5,nao,-0.07,0.958
+PAX9,L106P,controle_gnomad,1,6.84e-07,,9.8,nao,3.55,1.0
+PAX9,A108E,controle_gnomad,2,1.37e-06,,15.4,nao,0.17,0.8783
+PAX9,A108P,patogenica,0,,,15.4,nao,2.5,0.9992
+PAX9,A108V,controle_gnomad,27,1.67e-05,Uncertain significance,15.4,nao,0.4,0.5944
+PAX9,D109E,controle_gnomad,2,1.37e-06,,17.0,nao,1.43,0.8028
+PAX9,G110C,controle_gnomad,2,1.37e-06,,15.2,nao,0.41,0.5331
+PAX9,G110D,controle_gnomad,1,6.84e-07,,15.2,nao,1.45,0.8888
+PAX9,G110R,controle_gnomad,1,6.84e-07,,15.2,nao,0.72,0.8224
+PAX9,V111M,patogenica,0,,,12.3,nao,1.08,0.9689
+PAX9,C112F,controle_gnomad,1,6.57e-06,Uncertain significance,9.3,nao,0.19,0.9998
+PAX9,C112W,patogenica,0,,Pathogenic,9.3,nao,1.25,0.9999
+PAX9,D113G,controle_gnomad,1,6.84e-07,,8.6,nao,-0.05,0.9923
+PAX9,D113H,controle_gnomad,4,2.48e-06,,8.6,nao,0.4,0.9993
+PAX9,D113N,controle_gnomad,9,5.58e-06,,8.6,nao,-0.18,0.9234
+PAX9,K114Q,controle_gnomad,4,2.48e-06,,7.5,nao,0.35,0.9663
+PAX9,K114R,controle_gnomad,1,6.84e-07,,7.5,nao,0.04,0.2921
+PAX9,Y115C,controle_gnomad,1,6.84e-07,,5.9,nao,-0.13,0.9415
+PAX9,Y115H,controle_gnomad,25,1.71e-05,Uncertain significance,5.9,nao,0.04,0.9506
+PAX9,Y115N,controle_gnomad,1,6.84e-07,,5.9,nao,-0.1,0.7792
+PAX9,N116H,controle_gnomad,2,1.37e-06,,5.5,nao,0.62,0.9759
+PAX9,N116S,controle_gnomad,1,6.84e-07,,5.5,nao,0.2,0.5973
+PAX9,N116T,controle_gnomad,5,3.10e-06,,5.5,nao,0.18,0.7968
+PAX9,V117G,patogenica,0,,Uncertain significance,3.9,sim,2.03,0.9971
+PAX9,V117L,controle_gnomad,1,6.84e-07,,3.9,sim,0.92,0.8771
+PAX9,V117M,controle_gnomad,1,6.84e-07,,3.9,sim,1.0,0.9902
+PAX9,S119F,patogenica,1,6.84e-07,Likely pathogenic,3.2,sim,1.98,1.0
+PAX9,V120A,controle_gnomad,1,6.84e-07,,4.6,nao,0.56,0.9998
+PAX9,V120L,controle_gnomad,1,6.84e-07,,4.6,nao,0.3,0.9996
+PAX9,V120M,controle_gnomad,1,6.57e-06,,4.6,nao,0.43,0.9997
+PAX9,S122Y,patogenica,0,,Likely pathogenic,2.4,sim,0.04,1.0
+PAX9,I123V,controle_gnomad,1,6.84e-07,,6.1,nao,0.63,0.9023
+PAX9,S124G,controle_gnomad,1,6.84e-07,,3.9,sim,0.78,0.9964
+PAX9,R125S,controle_gnomad,1,6.84e-07,,3.1,sim,0.38,1.0
+PAX9,I126T,controle_gnomad,8,5.47e-06,,5.7,nao,1.84,1.0
+PAX9,R128H,controle_gnomad,1,6.84e-07,,2.8,sim,0.83,0.9993
+PAX9,R128S,controle_gnomad,1,6.84e-07,,2.8,sim,0.91,1.0
+PAX9,N129H,controle_gnomad,1,6.84e-07,,7.1,nao,0.06,0.8105
+PAX9,N129K,controle_gnomad,1,6.84e-07,,7.1,nao,0.45,0.9976
+PAX9,K130E,controle_gnomad,1,6.57e-06,,5.7,nao,0.15,0.9993
+PAX9,K130N,controle_gnomad,1,6.84e-07,,5.7,nao,0.92,0.9981
+PAX9,K130R,controle_gnomad,1,6.84e-07,,5.7,nao,0.13,0.398

@@ -1,0 +1,85 @@
+gene,accession,title,consequencia,classificacao,revisao,cromossomo,posicao_1based,ref,alt,spdi
+PAX9,VCV004998215,NM_001372076.1(PAX9):c.771+3dup,intron variant,Likely pathogenic,"criteria provided, single submitter",chr14,36666604,G,GG,NC_000014.9:36666603:G:GG
+PAX9,VCV004921580,NM_001372076.1(PAX9):c.771+5G>C,intron variant,Uncertain significance,"criteria provided, single submitter",chr14,36666606,G,C,NC_000014.9:36666605:G:C
+PAX9,VCV004921574,NM_001372076.1(PAX9):c.48_60delinsC (p.Asn17_Pro20del),Indel,Likely pathogenic,"criteria provided, single submitter",chr14,36662940,GAACGGGAGGCCG,C,NC_000014.9:36662939:GAACGGGAGGCCG:C
+PAX9,VCV004798524,NM_001372076.1(PAX9):c.4+14G>C,intron variant,Likely benign,"criteria provided, single submitter",chr14,36662107,G,C,NC_000014.9:36662106:G:C
+PAX9,VCV004762614,NM_001372076.1(PAX9):c.4+12C>A,intron variant,Likely benign,"criteria provided, single submitter",chr14,36662105,C,A,NC_000014.9:36662104:C:A
+PAX9,VCV004727529,NC_000014.9:g.36676198del,Deletion,Pathogenic,"criteria provided, single submitter",chr14,36676197,GG,G,NC_000014.9:36676196:GG:G
+PAX9,VCV004712355,NM_001372076.1(PAX9):c.631_631+1del,splice donor variant,Likely pathogenic,"criteria provided, single submitter",chr14,36663523,GG,,NC_000014.9:36663522:GG:
+PAX9,VCV004694190,NM_001372076.1(PAX9):c.4+17G>A,intron variant,Likely benign,"criteria provided, single submitter",chr14,36662110,G,A,NC_000014.9:36662109:G:A
+PAX9,VCV004396678,NM_001372076.1(PAX9):c.772-3C>G,intron variant,,,chr14,36676195,C,G,NC_000014.9:36676194:C:G
+PAX9,VCV004396677,NM_001372076.1(PAX9):c.771+1G>A,splice donor variant,,,chr14,36666602,G,A,NC_000014.9:36666601:G:A
+PAX9,VCV003716367,NM_001372076.1(PAX9):c.631+14G>A,intron variant,Benign,"criteria provided, single submitter",chr14,36663537,G,A,NC_000014.9:36663536:G:A
+PAX9,VCV003654157,NM_001372076.1(PAX9):c.337_345del (p.Asp113_Tyr115del),Deletion,Uncertain significance,"criteria provided, single submitter",chr14,36663228,CGACAAGTAC,C,NC_000014.9:36663227:CGACAAGTAC:C
+PAX9,VCV003030665,NM_001372076.1(PAX9):c.4+10G>A,intron variant,Likely benign,no assertion criteria provided,chr14,36662103,G,A,NC_000014.9:36662102:G:A
+PAX9,VCV002821128,NM_001372076.1(PAX9):c.772-2A>G,splice acceptor variant,Uncertain significance,"criteria provided, single submitter",chr14,36676196,A,G,NC_000014.9:36676195:A:G
+PAX9,VCV002814643,NM_001372076.1(PAX9):c.771+3G>T,intron variant,Uncertain significance,"criteria provided, single submitter",chr14,36666604,G,T,NC_000014.9:36666603:G:T
+PAX9,VCV002416543,NM_001372076.1(PAX9):c.771+20G>T,intron variant,Likely benign,"criteria provided, multiple submitters, no conflicts",chr14,36666621,G,T,NC_000014.9:36666620:G:T
+PAX9,VCV001597367,NC_000014.9:g.36659359C>A,intron variant,Benign,"criteria provided, single submitter",chr14,36659359,C,A,NC_000014.9:36659358:C:A
+PAX9,VCV001296023,NM_001372076.1(PAX9):c.5-41A>G,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36662856,A,G,NC_000014.9:36662855:A:G
+PAX9,VCV001276366,NM_001372076.1(PAX9):c.771+304A>G,intron variant,Benign,"criteria provided, single submitter",chr14,36666905,A,G,NC_000014.9:36666904:A:G
+PAX9,VCV001256974,NM_001372076.1(PAX9):c.631+175A>T,intron variant,Benign,"criteria provided, single submitter",chr14,36663698,A,T,NC_000014.9:36663697:A:T
+PAX9,VCV001250848,NM_001372076.1(PAX9):c.632-62G>C,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36666400,G,C,NC_000014.9:36666399:G:C
+PAX9,VCV001242268,NM_001372076.1(PAX9):c.5-109G>C,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36662788,G,C,NC_000014.9:36662787:G:C
+PAX9,VCV001235428,NM_001372076.1(PAX9):c.5-82G>A,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36662815,G,A,NC_000014.9:36662814:G:A
+PAX9,VCV001223900,NM_001372076.1(PAX9):c.5-54A>G,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36662843,A,G,NC_000014.9:36662842:A:G
+PAX9,VCV000884034,NM_001372076.1(PAX9):c.*1066A>C,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36677518,A,C,NC_000014.9:36677517:A:C
+PAX9,VCV000884033,NM_001372076.1(PAX9):c.*825T>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36677277,T,G,NC_000014.9:36677276:T:G
+PAX9,VCV000884032,NM_001372076.1(PAX9):c.*775C>T,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36677227,C,T,NC_000014.9:36677226:C:T
+PAX9,VCV000884031,NM_001372076.1(PAX9):c.*663C>T,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36677115,C,T,NC_000014.9:36677114:C:T
+PAX9,VCV000884030,NM_001372076.1(PAX9):c.*640T>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36677092,T,G,NC_000014.9:36677091:T:G
+PAX9,VCV000883961,NM_001372076.1(PAX9):c.-67A>G,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36662023,A,G,NC_000014.9:36662022:A:G
+PAX9,VCV000883234,NM_001372076.1(PAX9):c.*506A>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676958,A,G,NC_000014.9:36676957:A:G
+PAX9,VCV000883233,NM_001372076.1(PAX9):c.*288C>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676740,C,G,NC_000014.9:36676739:C:G
+PAX9,VCV000883181,NM_001372076.1(PAX9):c.-175G>C,5 prime UTR variant,Likely benign,"criteria provided, single submitter",chr14,36661915,G,C,NC_000014.9:36661914:G:C
+PAX9,VCV000882086,NM_001372076.1(PAX9):c.*257G>A,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676709,G,A,NC_000014.9:36676708:G:A
+PAX9,VCV000882085,NM_001372076.1(PAX9):c.*59C>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676511,C,G,NC_000014.9:36676510:C:G
+PAX9,VCV000882084,NM_001372076.1(PAX9):c.*12G>T,3 prime UTR variant,Likely benign,"criteria provided, single submitter",chr14,36676464,G,T,NC_000014.9:36676463:G:T
+PAX9,VCV000882016,NM_006194.4(PAX9):c.-644G>A,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36657650,G,A,NC_000014.9:36657649:G:A
+PAX9,VCV000430692,NC_000014.9:g.36662092G>A,single nucleotide variant,Pathogenic,no assertion criteria provided,chr14,36662092,G,A,NC_000014.9:36662091:G:A
+PAX9,VCV000313185,NM_001372076.1(PAX9):c.*902G>A,3 prime UTR variant,Likely benign,"criteria provided, single submitter",chr14,36677354,G,A,NC_000014.9:36677353:G:A
+PAX9,VCV000313184,NM_001372076.1(PAX9):c.*901C>T,3 prime UTR variant,Benign,"criteria provided, single submitter",chr14,36677353,C,T,NC_000014.9:36677352:C:T
+PAX9,VCV000313183,NM_001372076.1(PAX9):c.*818C>T,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36677270,C,T,NC_000014.9:36677269:C:T
+PAX9,VCV000313182,NM_001372076.1(PAX9):c.*554G>C,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36677006,G,C,NC_000014.9:36677005:G:C
+PAX9,VCV000313180,NM_001372076.1(PAX9):c.*511T>C,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676963,T,C,NC_000014.9:36676962:T:C
+PAX9,VCV000313179,NM_001372076.1(PAX9):c.*429T>C,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36676881,T,C,NC_000014.9:36676880:T:C
+PAX9,VCV000313177,NM_001372076.1(PAX9):c.*328T>A,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676780,T,A,NC_000014.9:36676779:T:A
+PAX9,VCV000313176,NM_001372076.1(PAX9):c.*263A>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676715,A,G,NC_000014.9:36676714:A:G
+PAX9,VCV000313175,NM_001372076.1(PAX9):c.*259C>T,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36676711,C,T,NC_000014.9:36676710:C:T
+PAX9,VCV000313174,NM_001372076.1(PAX9):c.*231T>G,3 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36676683,T,G,NC_000014.9:36676682:T:G
+PAX9,VCV000313173,NM_001372076.1(PAX9):c.*206T>C,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36676658,T,C,NC_000014.9:36676657:T:C
+PAX9,VCV000313163,NM_001372076.1(PAX9):c.-65G>A,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36662025,G,A,NC_000014.9:36662024:G:A
+PAX9,VCV000313162,NM_001372076.1(PAX9):c.-119A>T,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36661971,A,T,NC_000014.9:36661970:A:T
+PAX9,VCV000313161,NM_001372076.1(PAX9):c.-186C>A,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36661904,C,A,NC_000014.9:36661903:C:A
+PAX9,VCV000313160,NM_001372076.1(PAX9):c.-218G>A,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36661872,G,A,NC_000014.9:36661871:G:A
+PAX9,VCV000313159,NM_006194.4(PAX9):c.-244G>T,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36661846,G,T,NC_000014.9:36661845:G:T
+PAX9,VCV000313156,NM_006194.4(PAX9):c.-394+15G>C,intron variant,Uncertain significance,"criteria provided, single submitter",chr14,36657915,G,C,NC_000014.9:36657914:G:C
+PAX9,VCV000313155,NM_006194.4(PAX9):c.-455C>G,5 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36657839,C,G,NC_000014.9:36657838:C:G
+PAX9,VCV000313154,NM_006194.4(PAX9):c.-488C>T,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36657806,C,T,NC_000014.9:36657805:C:T
+PAX9,VCV000313153,NM_006194.4(PAX9):c.-553C>A,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36657741,C,A,NC_000014.9:36657740:C:A
+PAX9,VCV000313151,NM_006194.4(PAX9):c.-656C>G,5 prime UTR variant,Likely benign,"criteria provided, single submitter",chr14,36657638,C,G,NC_000014.9:36657637:C:G
+PAX9,VCV000313150,NM_006194.4(PAX9):c.-719C>T,5 prime UTR variant,Uncertain significance,"criteria provided, single submitter",chr14,36657575,C,T,NC_000014.9:36657574:C:T
+PAX9,VCV000225820,NM_001372076.1(PAX9):c.631+41G>A,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr14,36663564,G,A,NC_000014.9:36663563:G:A
+MSX1,VCV004820125,NM_002448.3(MSX1):c.469+1G>T,splice donor variant,Likely pathogenic,"criteria provided, single submitter",chr4,4860369,G,T,NC_000004.12:4860368:G:T
+MSX1,VCV004738077,NM_002448.3(MSX1):c.470-7C>T,intron variant,Likely benign,"criteria provided, single submitter",chr4,4862694,C,T,NC_000004.12:4862693:C:T
+MSX1,VCV004306315,NM_002448.3(MSX1):c.*276A>T,3 prime UTR variant,,,chr4,4863419,A,T,NC_000004.12:4863418:A:T
+MSX1,VCV004306313,NM_002448.3(MSX1):c.470-5C>A,intron variant,,,chr4,4862696,C,A,NC_000004.12:4862695:C:A
+MSX1,VCV004306312,NM_002448.3(MSX1):c.470-6C>G,intron variant,,,chr4,4862695,C,G,NC_000004.12:4862694:C:G
+MSX1,VCV004085302,NM_002448.3(MSX1):c.470-10C>A,intron variant,Uncertain significance,"criteria provided, single submitter",chr4,4862691,C,A,NC_000004.12:4862690:C:A
+MSX1,VCV003253075,NM_002448.3(MSX1):c.469+5G>A,intron variant,Pathogenic,"criteria provided, single submitter",chr4,4860373,G,A,NC_000004.12:4860372:G:A
+MSX1,VCV003242444,NM_002448.3(MSX1):c.466_469+1del,splice donor variant,Pathogenic,"criteria provided, single submitter",chr4,4860364,GGCCAG,G,NC_000004.12:4860363:GGCCAG:G
+MSX1,VCV002734641,NM_002448.3(MSX1):c.470-9G>A,intron variant,Uncertain significance,"criteria provided, single submitter",chr4,4862692,G,A,NC_000004.12:4862691:G:A
+MSX1,VCV001287269,NM_002448.3(MSX1):c.469+232A>T,intron variant,Benign,"criteria provided, single submitter",chr4,4860600,A,T,NC_000004.12:4860599:A:T
+MSX1,VCV001285892,NC_000004.12:g.4859396G>C,single nucleotide variant,Benign,"criteria provided, single submitter",chr4,4859396,G,C,NC_000004.12:4859395:G:C
+MSX1,VCV001285193,NM_002448.3(MSX1):c.469+5G>C,intron variant,Likely pathogenic,no assertion criteria provided,chr4,4860373,G,C,NC_000004.12:4860372:G:C
+MSX1,VCV001283263,NM_002448.3(MSX1):c.470-152A>G,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4862549,A,G,NC_000004.12:4862548:A:G
+MSX1,VCV001283067,NM_002448.3(MSX1):c.470-129G>A,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4862572,G,A,NC_000004.12:4862571:G:A
+MSX1,VCV001258641,NC_000004.12:g.4859409G>T,single nucleotide variant,Benign,"criteria provided, single submitter",chr4,4859409,G,T,NC_000004.12:4859408:G:T
+MSX1,VCV001250675,NM_002448.3(MSX1):c.470-127C>A,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4862574,C,A,NC_000004.12:4862573:C:A
+MSX1,VCV001241303,NM_002448.3(MSX1):c.470-47A>G,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4862654,A,G,NC_000004.12:4862653:A:G
+MSX1,VCV001236951,NM_002448.3(MSX1):c.469+219G>A,intron variant,Benign,"criteria provided, single submitter",chr4,4860587,G,A,NC_000004.12:4860586:G:A
+MSX1,VCV001232521,NM_002448.3(MSX1):c.470-198A>G,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4862503,A,G,NC_000004.12:4862502:A:G
+MSX1,VCV001181980,NC_000004.12:g.4859346_4859355del,Deletion,Benign,"criteria provided, single submitter",chr4,4859342,GAGGGGAGGAGAGG,GAGG,NC_000004.12:4859341:GAGGGGAGGAGAGG:GAGG
+MSX1,VCV001165757,NM_002448.3(MSX1):c.*6C>T,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4863149,C,T,NC_000004.12:4863148:C:T
+MSX1,VCV001164251,NM_002448.3(MSX1):c.469+46_469+56del,intron variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4860399,GGGGGCCGGGTGGGGGCCGGGTGGGG,GGGGGCCGGGTGGGG,NC_000004.12:4860398:GGGGGCCGGGTGGGGGCCGGGTGGGG:GGGGGCCGGGTGGGG
+MSX1,VCV000530788,NM_002448.3(MSX1):c.*276A>G,3 prime UTR variant,Benign,"criteria provided, multiple submitters, no conflicts",chr4,4863419,A,G,NC_000004.12:4863418:A:G

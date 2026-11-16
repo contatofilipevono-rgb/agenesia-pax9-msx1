@@ -1,0 +1,9 @@
+variante,ligacao_dna_emsa,ligacao_escore,estabilidade_modelo_wang,transativacao,sinergia_msx1,dominante_negativo,dentes_ausentes_medio,nota
+G6R,++++,4,10.5,moderada,aumentada,nao,3,
+L21P,-,0,-0.9,desprezivel,desprezivel,nao,10,
+R26W,-,0,-17.8,desprezivel,desprezivel,nao,11.3,texto diz '-' e legenda da Fig.3 diz '-/+' em exposição longa
+R28P,-/+,0.5,-13.0,desprezivel,desprezivel,nao,13,
+S43K,+,1,-7.4,desprezivel,desprezivel,nao,6.5,
+G51S,+++,3,2.5,aumentada,ausente,sim,9,exceção: liga DNA mas perde sinergia com MSX1 e é dominante negativo
+I87F,-/+,0.5,-5.2,desprezivel,aumentada,nao,11.5,
+K91E,+++,3,0.2,desprezivel,aumentada,nao,8.4,

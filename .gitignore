@@ -1,0 +1,8 @@
+.env
+*.env
+__pycache__/
+*.pyc
+alphagenome1_todas_bruto.csv
+dados_brutos/literatura/intarak2023_supl.txt
+dados_brutos/literatura/*.pdf
+saida*.csv

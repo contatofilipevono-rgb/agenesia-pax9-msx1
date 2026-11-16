@@ -1,0 +1,211 @@
+﻿gene,variante,clinvar,gnomad_ac,dist_dna,ddg_thermompnn,alphamissense,regra,LR
+MSX1,N172K,,1,4.2,0.06,0.9973,negativa,0.36
+MSX1,R173C,,1,3.0,0.2,0.9995,positiva,3.45
+MSX1,R173G,,2,3.0,0.44,0.9986,positiva,3.45
+MSX1,R173H,Uncertain significance,1,3.0,0.33,0.999,positiva,3.45
+MSX1,R173L,,3,3.0,0.21,0.9992,positiva,3.45
+MSX1,R173P,,2,3.0,0.54,0.995,positiva,3.45
+MSX1,P175T,,0,4.0,0.3,0.9979,negativa,0.36
+MSX1,R176Q,Uncertain significance,,2.9,0.35,0.9996,positiva,3.45
+MSX1,R176W,,1,2.9,0.03,0.9997,positiva,3.45
+MSX1,P178A,,2,5.0,-0.04,0.9826,negativa,0.36
+MSX1,P178L,,1,5.0,-0.12,0.9972,negativa,0.36
+MSX1,P178S,,1,5.0,0.0,0.9984,negativa,0.36
+MSX1,T180N,,1,7.6,0.71,0.9753,negativa,0.36
+MSX1,T180S,,1,7.6,0.11,0.6758,negativa,0.36
+MSX1,T181I,,0,9.1,-0.05,0.9983,negativa,0.36
+MSX1,A182S,Uncertain significance,9,10.8,0.14,0.0969,negativa,0.36
+MSX1,A182T,Uncertain significance,8,10.8,0.19,0.1942,negativa,0.36
+MSX1,A182V,Uncertain significance,23,10.8,0.09,0.5284,negativa,0.36
+MSX1,Q183K,Uncertain significance,,8.5,1.38,0.9986,positiva,3.45
+MSX1,A186E,,2,11.3,0.61,0.9632,negativa,0.36
+MSX1,A186V,Uncertain significance,,11.3,0.66,0.9672,negativa,0.36
+MSX1,R189C,,1,12.5,-0.08,0.9619,negativa,0.36
+MSX1,R189G,,9,12.5,0.7,0.9371,negativa,0.36
+MSX1,R189H,,3,12.5,0.27,0.7698,negativa,0.36
+MSX1,R189L,,0,12.5,0.06,0.9672,negativa,0.36
+MSX1,R189S,Uncertain significance,,12.5,0.24,0.9902,negativa,0.36
+MSX1,K190R,Uncertain significance,48,11.7,-0.09,0.5628,negativa,0.36
+MSX1,R192C,,1,12.4,0.04,0.7221,negativa,0.36
+MSX1,R192H,,3,12.4,0.29,0.4034,negativa,0.36
+MSX1,R192L,,1,12.4,0.07,0.8751,negativa,0.36
+MSX1,Q193H,,6,13.4,0.33,0.891,negativa,0.36
+MSX1,Q193R,,2,13.4,0.26,0.7811,negativa,0.36
+MSX1,K194N,,0,9.5,0.26,0.9987,negativa,0.36
+MSX1,K194R,Uncertain significance,363,9.5,-0.02,0.7241,negativa,0.36
+MSX1,Q195K,,1,6.4,-0.14,0.9597,negativa,0.36
+MSX1,Q195P,,2,6.4,0.06,0.9712,negativa,0.36
+MSX1,I199V,,8,4.7,0.05,0.7169,negativa,0.36
+MSX1,A200T,,14,8.6,0.1,0.9846,negativa,0.36
+MSX1,A200V,Uncertain significance,,8.6,0.02,0.9929,negativa,0.36
+MSX1,E201Q,,1,9.2,0.67,0.9924,negativa,0.36
+MSX1,R202C,,1,2.2,-0.07,0.9998,positiva,3.45
+MSX1,R202G,,2,2.2,1.31,0.9992,positiva,3.45
+MSX1,A203S,,17,8.6,0.15,0.8793,negativa,0.36
+MSX1,A203V,,6,8.6,-0.13,0.9959,negativa,0.36
+MSX1,E204D,,4,11.4,0.47,0.9396,negativa,0.36
+MSX1,E204K,,1,11.4,-0.03,0.9931,negativa,0.36
+MSX1,F205L,,1,11.5,0.75,0.9999,negativa,0.36
+MSX1,F205S,,1,11.5,2.3,1.0,positiva,3.45
+MSX1,S206A,,1,10.2,-0.72,0.5885,negativa,0.36
+MSX1,S206C,,2,10.2,0.42,0.9606,negativa,0.36
+MSX1,S206Y,Uncertain significance,,10.2,1.51,0.9992,positiva,3.45
+MSX1,S207G,,1,13.2,0.36,0.1783,negativa,0.36
+MSX1,S208L,,2,15.1,0.02,0.6273,negativa,0.36
+MSX1,S208W,Uncertain significance,12,15.1,0.09,0.9587,negativa,0.36
+MSX1,S210C,,1,10.4,-0.21,0.1466,negativa,0.36
+MSX1,T214M,Uncertain significance,20,5.9,0.22,0.9986,negativa,0.36
+MSX1,Q215R,,2,3.9,1.69,0.9984,positiva,3.45
+MSX1,V216E,,1,6.5,2.9,0.9998,positiva,3.45
+MSX1,K217R,Uncertain significance,,3.3,-0.12,0.99,positiva,3.45
+MSX1,I218T,,1,3.2,0.08,0.9999,positiva,3.45
+MSX1,W219G,,1,3.4,2.29,0.9997,positiva,3.45
+MSX1,W219R,Conflicting classifications of pathogenicity,,3.4,2.61,1.0,positiva,3.45
+MSX1,N222T,,1,2.9,0.0,0.9999,positiva,3.45
+MSX1,R224C,Uncertain significance,2,2.6,0.94,0.9999,positiva,3.45
+MSX1,R224H,,1,2.6,1.14,0.9998,positiva,3.45
+MSX1,A225G,Uncertain significance,,5.8,0.67,0.9926,negativa,0.36
+MSX1,A225P,,1,5.8,1.92,0.9996,positiva,3.45
+MSX1,A225V,,1,5.8,0.27,0.9989,negativa,0.36
+MSX1,A227P,Uncertain significance,1,8.5,2.08,0.9998,positiva,3.45
+MSX1,K228E,Uncertain significance,,2.1,0.24,0.9998,positiva,3.45
+MSX1,L230R,,1,7.8,0.16,0.9831,negativa,0.36
+MSX1,Q231K,,1,8.9,-0.0,0.8952,negativa,0.36
+PAX9,V8G,,1,4.5,1.49,0.9493,positiva,2.81
+PAX9,V8M,Uncertain significance,4,4.5,0.42,0.9822,negativa,0.09
+PAX9,N9D,Uncertain significance,1,2.7,0.94,0.9998,positiva,2.81
+PAX9,Q10H,,1,3.0,-0.09,0.9999,positiva,2.81
+PAX9,Q10K,Uncertain significance,26,3.0,-0.05,0.9987,positiva,2.81
+PAX9,V14L,Uncertain significance,,5.1,0.15,0.8801,negativa,0.09
+PAX9,V14M,,7,5.1,0.29,0.7765,negativa,0.09
+PAX9,V16M,,2,5.0,0.26,0.9989,negativa,0.09
+PAX9,G18E,,1,3.3,0.95,1.0,positiva,2.81
+PAX9,G18R,,1,3.3,1.08,1.0,positiva,2.81
+PAX9,G18W,,1,3.3,1.11,1.0,positiva,2.81
+PAX9,P20T,,1,3.0,0.79,0.9996,positiva,2.81
+PAX9,P22H,,2,6.1,1.46,0.9996,positiva,2.81
+PAX9,N23K,,1,8.0,0.21,0.996,negativa,0.09
+PAX9,N23S,,1,8.0,0.0,0.4419,negativa,0.09
+PAX9,A24G,,2,10.0,0.31,0.4203,negativa,0.09
+PAX9,A24S,,1,10.0,0.13,0.2581,negativa,0.09
+PAX9,A24T,,2,10.0,0.19,0.6058,negativa,0.09
+PAX9,A24V,,1,10.0,0.11,0.7912,negativa,0.09
+PAX9,R26Q,Uncertain significance,1,2.8,1.8,0.999,positiva,2.81
+PAX9,R28L,,1,11.5,0.54,0.9879,negativa,0.09
+PAX9,I29M,,1,7.4,1.39,0.9932,positiva,2.81
+PAX9,L32P,Uncertain significance,,10.4,3.08,1.0,positiva,2.81
+PAX9,L35V,Uncertain significance,1,11.6,0.66,0.7494,negativa,0.09
+PAX9,G36D,,1,7.8,1.47,0.9997,positiva,2.81
+PAX9,G36R,,2,7.8,1.48,0.9998,positiva,2.81
+PAX9,G36V,Uncertain significance,,7.8,1.82,0.9999,positiva,2.81
+PAX9,I37T,,19,6.4,0.98,0.9979,negativa,0.09
+PAX9,D41E,,1,4.8,-0.08,0.9969,negativa,0.09
+PAX9,D41N,,1,4.8,0.76,0.9984,negativa,0.09
+PAX9,R44H,,4,2.8,0.65,0.9995,positiva,2.81
+PAX9,R44L,,1,2.8,0.24,0.9994,positiva,2.81
+PAX9,Q45H,Uncertain significance,2,10.9,0.19,0.9963,negativa,0.09
+PAX9,Q45K,,1,10.9,0.34,0.9861,negativa,0.09
+PAX9,Q45R,,3,10.9,0.33,0.9831,negativa,0.09
+PAX9,R47Q,,2,4.5,0.27,0.9556,negativa,0.09
+PAX9,V48A,,1,3.7,1.82,0.9998,positiva,2.81
+PAX9,V48I,,2,3.7,-0.03,0.9727,positiva,2.81
+PAX9,G51C,,2,3.8,0.04,1.0,positiva,2.81
+PAX9,V53I,,2,6.0,0.11,0.9495,negativa,0.09
+PAX9,K55N,,1,3.5,0.16,1.0,positiva,2.81
+PAX9,I56V,,1,4.5,0.53,0.9973,negativa,0.09
+PAX9,L57M,,1,6.8,1.14,0.9956,positiva,2.81
+PAX9,A58E,,1,6.7,0.07,0.996,negativa,0.09
+PAX9,A58T,Uncertain significance,2,6.7,0.19,0.9796,negativa,0.09
+PAX9,R59Q,,1,2.8,0.58,0.9993,positiva,2.81
+PAX9,N61K,,3,7.7,-0.27,0.9939,negativa,0.09
+PAX9,E62D,,9,8.0,0.37,0.9864,negativa,0.09
+PAX9,E62K,Uncertain significance,10,8.0,-0.25,0.9994,negativa,0.09
+PAX9,E62Q,,4,8.0,-0.13,0.9936,negativa,0.09
+PAX9,T63A,,2,9.6,1.29,0.9988,positiva,2.81
+PAX9,T63M,,1,9.6,1.12,0.9992,positiva,2.81
+PAX9,T63R,Uncertain significance,2,9.6,1.11,0.9988,positiva,2.81
+PAX9,S65L,,1,8.7,1.2,0.9992,positiva,2.81
+PAX9,G69A,,1,2.5,-0.28,0.9961,positiva,2.81
+PAX9,A70S,,1,3.0,0.07,0.8638,positiva,2.81
+PAX9,I71M,,1,2.9,0.16,0.9932,positiva,2.81
+PAX9,I71T,,1,2.9,0.1,0.9984,positiva,2.81
+PAX9,G72R,,2,2.8,0.77,1.0,positiva,2.81
+PAX9,G73C,Uncertain significance,,2.9,0.55,0.9999,positiva,2.81
+PAX9,G73S,,1,2.9,0.83,0.9996,positiva,2.81
+PAX9,G73V,Uncertain significance,3,2.9,1.03,0.9998,positiva,2.81
+PAX9,P76S,,1,3.4,0.12,0.9998,positiva,2.81
+PAX9,R77W,,4,2.2,0.34,0.9997,positiva,2.81
+PAX9,V78L,Uncertain significance,,3.0,-0.02,0.9994,positiva,2.81
+PAX9,T80S,,1,5.4,0.91,0.9927,negativa,0.09
+PAX9,P81L,,1,8.7,0.43,0.9925,negativa,0.09
+PAX9,P81S,,2,8.7,0.32,0.9888,negativa,0.09
+PAX9,T82A,Uncertain significance,,10.7,-0.3,0.0776,negativa,0.09
+PAX9,V83G,Uncertain significance,,7.8,3.04,0.9992,positiva,2.81
+PAX9,V83L,Uncertain significance,,7.8,1.53,0.9995,positiva,2.81
+PAX9,V83M,,2,7.8,1.87,0.9994,positiva,2.81
+PAX9,V84A,,1,8.0,0.9,0.999,negativa,0.09
+PAX9,H86L,,1,13.6,0.19,0.8551,negativa,0.09
+PAX9,I87L,,1,9.4,0.7,0.9977,negativa,0.09
+PAX9,R88P,Uncertain significance,,13.3,1.85,0.9997,positiva,2.81
+PAX9,R88Q,,2,13.3,0.32,0.6991,negativa,0.09
+PAX9,R88W,,2,13.3,-0.26,0.9809,negativa,0.09
+PAX9,T89A,,10,14.1,-0.29,0.0883,negativa,0.09
+PAX9,T89I,,3,14.1,-0.15,0.3271,negativa,0.09
+PAX9,Y90C,,3,11.3,0.5,0.9637,negativa,0.09
+PAX9,Q92K,,1,12.4,0.16,0.5663,negativa,0.09
+PAX9,Q92R,,1,12.4,0.19,0.5958,negativa,0.09
+PAX9,D94E,Uncertain significance,37,9.0,0.36,0.988,negativa,0.09
+PAX9,P95A,,1,7.2,0.55,0.9294,negativa,0.09
+PAX9,P95T,,1,7.2,0.85,0.9746,negativa,0.09
+PAX9,G96S,,1,5.5,-0.02,0.9293,negativa,0.09
+PAX9,I97L,Uncertain significance,1,4.3,0.84,0.9115,negativa,0.09
+PAX9,I97N,Uncertain significance,,4.3,2.33,0.9993,positiva,2.81
+PAX9,I97V,,1,4.3,0.62,0.7503,negativa,0.09
+PAX9,A99S,Uncertain significance,6,3.2,0.41,0.9507,positiva,2.81
+PAX9,A99V,,1,3.2,0.04,0.9999,positiva,2.81
+PAX9,E101D,,1,6.0,0.57,0.9999,negativa,0.09
+PAX9,I102M,,1,7.2,1.12,0.9966,positiva,2.81
+PAX9,R103W,,1,7.5,0.76,0.9998,negativa,0.09
+PAX9,D104G,,1,8.9,0.67,0.9975,negativa,0.09
+PAX9,R105C,,0,12.5,0.54,0.9231,negativa,0.09
+PAX9,R105G,,3,12.5,1.27,0.9902,positiva,2.81
+PAX9,R105H,,3,12.5,0.71,0.7936,negativa,0.09
+PAX9,R105L,,1,12.5,-0.07,0.958,negativa,0.09
+PAX9,R105P,Uncertain significance,,12.5,2.35,0.9999,positiva,2.81
+PAX9,L106P,,1,9.8,3.55,1.0,positiva,2.81
+PAX9,L106R,Uncertain significance,,9.8,3.19,0.9999,positiva,2.81
+PAX9,A108E,,2,15.4,0.17,0.8783,negativa,0.09
+PAX9,A108V,Uncertain significance,27,15.4,0.4,0.5944,negativa,0.09
+PAX9,D109E,,2,17.0,1.43,0.8028,positiva,2.81
+PAX9,G110C,,2,15.2,0.41,0.5331,negativa,0.09
+PAX9,G110D,,1,15.2,1.45,0.8888,positiva,2.81
+PAX9,G110R,,1,15.2,0.72,0.8224,negativa,0.09
+PAX9,C112F,Uncertain significance,1,9.3,0.19,0.9998,negativa,0.09
+PAX9,D113G,,1,8.6,-0.05,0.9923,negativa,0.09
+PAX9,D113H,,4,8.6,0.4,0.9993,negativa,0.09
+PAX9,D113N,,9,8.6,-0.18,0.9234,negativa,0.09
+PAX9,K114Q,,4,7.5,0.35,0.9663,negativa,0.09
+PAX9,K114R,,1,7.5,0.04,0.2921,negativa,0.09
+PAX9,Y115C,,1,5.9,-0.13,0.9415,negativa,0.09
+PAX9,Y115H,Uncertain significance,25,5.9,0.04,0.9506,negativa,0.09
+PAX9,Y115N,,1,5.9,-0.1,0.7792,negativa,0.09
+PAX9,N116H,,2,5.5,0.62,0.9759,negativa,0.09
+PAX9,N116S,,1,5.5,0.2,0.5973,negativa,0.09
+PAX9,N116T,,5,5.5,0.18,0.7968,negativa,0.09
+PAX9,N116Y,Uncertain significance,,5.5,0.79,0.9941,negativa,0.09
+PAX9,V117L,,1,3.9,0.92,0.8771,positiva,2.81
+PAX9,V117M,,1,3.9,1.0,0.9902,positiva,2.81
+PAX9,V120A,,1,4.6,0.56,0.9998,negativa,0.09
+PAX9,V120L,,1,4.6,0.3,0.9996,negativa,0.09
+PAX9,V120M,,1,4.6,0.43,0.9997,negativa,0.09
+PAX9,I123V,,1,6.1,0.63,0.9023,negativa,0.09
+PAX9,S124G,,1,3.9,0.78,0.9964,positiva,2.81
+PAX9,R125S,,1,3.1,0.38,1.0,positiva,2.81
+PAX9,I126T,,8,5.7,1.84,1.0,positiva,2.81
+PAX9,R128H,,1,2.8,0.83,0.9993,positiva,2.81
+PAX9,R128S,,1,2.8,0.91,1.0,positiva,2.81
+PAX9,N129H,,1,7.1,0.06,0.8105,negativa,0.09
+PAX9,N129K,,1,7.1,0.45,0.9976,negativa,0.09
+PAX9,K130E,,1,5.7,0.15,0.9993,negativa,0.09
+PAX9,K130N,,1,5.7,0.92,0.9981,negativa,0.09
+PAX9,K130R,,1,5.7,0.13,0.398,negativa,0.09
