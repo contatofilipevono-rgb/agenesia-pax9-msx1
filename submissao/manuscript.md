@@ -2,15 +2,16 @@
 
 **Running title:** Structural mechanisms of *PAX9* and *MSX1* variants
 
-**Filipe Martins Vono**$^{1,*}$, **Andre Naufel**$^{2}$
+**Filipe Martins Vono**$^{1,*}$, **Andre Naufel**$^{2}$, **Valeria Gonzaga Santos**$^{3}$
 
 $^{1}$School of Dentistry, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil  
-$^{2}$[AFFILIATION PLACEHOLDER: Department/School, Institution, City, State, Country]
+$^{2}$Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil  
+$^{3}$American Global Tech University
 
 $^{*}$**Correspondence:**  
 Filipe Martins Vono, School of Dentistry, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil.  
 Email: `[CORRESPONDING AUTHOR EMAIL PLACEHOLDER]`  
-ORCID: Filipe Martins Vono (`[ORCID PLACEHOLDER]`); Andre Naufel (`[ORCID PLACEHOLDER]`)
+ORCID: Filipe Martins Vono (`[ORCID PLACEHOLDER]`); Andre Naufel (`[ORCID PLACEHOLDER]`); Valeria Gonzaga Santos (`0009-0009-1333-2518`)
 
 ---
 
@@ -241,7 +242,7 @@ In conclusion, pathogenic missense variants in the PAX9 paired domain act predom
 
 **Data and code availability:** All Python analysis scripts, consolidated variant tables, ThermoMPNN saturation outputs, reduced AlphaFold Server archive bundles (verified byte-for-byte to reproduce all analytical tables), and processed AlphaGenome/SpliceAI score tables are openly archived on GitHub and Zenodo (`https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1 ([ZENODO DOI PLACEHOLDER])`). Structure predictions were generated with AlphaFold Server: *"Structure predicted with AlphaFold Server; use is subject to the AlphaFold Server Output Terms of Use"* (non-commercial use only). AlphaGenome predictions were generated via the AlphaGenome API under non-commercial research terms of use; API keys are not distributed, and outputs must not be used for clinical or diagnostic purposes.
 
-**Author contributions (CRediT):** **Filipe Martins Vono:** Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Software; Visualization; Writing – original draft; Writing – review & editing. **Andre Naufel:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`.
+**Author contributions (CRediT):** **Filipe Martins Vono:** Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Software; Visualization; Writing – original draft; Writing – review & editing. **Andre Naufel:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`. **Valeria Gonzaga Santos:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`.
 
 ---
 

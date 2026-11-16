@@ -102,9 +102,9 @@ Todas as **27 referências** citadas em `manuscript.md` foram verificadas via AP
 
 ## 4. O que ainda depende exclusivamente dos autores antes do envio
 
-1. **Dados do coautor e de correspondência:**
+1. **Dados dos coautores e de correspondência:**
    - E-mail institucional e ORCID do autor correspondente **Filipe Martins Vono** (`[CORRESPONDING AUTHOR EMAIL PLACEHOLDER]`, `[ORCID PLACEHOLDER]`).
-   - Afiliação institucional completa, ORCID e papéis CRediT do coautor **Andre Naufel** (`[AFFILIATION PLACEHOLDER]`, `[ORCID PLACEHOLDER]`, `[CREDIT ROLES PLACEHOLDER]`).
+   - ORCID de **Andre Naufel** (`[ORCID PLACEHOLDER]`, afiliação atualizada para Centro Universitário de Belo Horizonte – UniBH) e confirmação dos papéis CRediT de **Andre Naufel** e **Valeria Gonzaga Santos** (`0009-0009-1333-2518`, American Global Tech University).
 2. **Financiamento:** confirmar se permanece sem financiamento (`none`) ou incluir menção caso haja aprovação do pedido de Google Cloud Research Credits (`[VERIFY OR UPDATE IF CLOUD CREDITS APPLY]`).
 3. **DOI do Zenodo:** gerar o depósito no Zenodo vinculado ao repositório `https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1` e substituir `[ZENODO DOI PLACEHOLDER]` em `manuscript.md`/`manuscript.docx` e `cover_letter.docx`.
 4. **Conferência opcional da subversão do gnomAD (`v4.0` vs `v4.1`) e inspeção visual de Wang 2009:** o endpoint GraphQL `gnomad_r4` não registra a subversão menor no CSV exportado (já declarado como limitação transparente na Seção 4); os valores de Wang 2009 foram conferidos no texto completo HTML em `PMC2706687` (Tabela 1 e legenda da Fig. 3B), restando apenas inspeção visual opcional do gel no PDF original, caso desejem.

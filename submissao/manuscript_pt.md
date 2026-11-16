@@ -2,15 +2,16 @@
 
 **Título resumido:** Mecanismos estruturais de variantes de *PAX9* e *MSX1*
 
-**Filipe Martins Vono**$^{1,*}$, **Andre Naufel**$^{2}$
+**Filipe Martins Vono**$^{1,*}$, **Andre Naufel**$^{2}$, **Valeria Gonzaga Santos**$^{3}$
 
 $^{1}$Faculdade de Odontologia, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brasil  
-$^{2}$[AFFILIATION PLACEHOLDER: Department/School, Institution, City, State, Country]
+$^{2}$Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brasil  
+$^{3}$American Global Tech University
 
 $^{*}$**Correspondência:**  
 Filipe Martins Vono, Faculdade de Odontologia, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brasil.  
 E-mail: `[CORRESPONDING AUTHOR EMAIL PLACEHOLDER]`  
-ORCID: Filipe Martins Vono (`[ORCID PLACEHOLDER]`); Andre Naufel (`[ORCID PLACEHOLDER]`)
+ORCID: Filipe Martins Vono (`[ORCID PLACEHOLDER]`); Andre Naufel (`[ORCID PLACEHOLDER]`); Valeria Gonzaga Santos (`0009-0009-1333-2518`)
 
 ---
 
@@ -241,7 +242,7 @@ Em conclusão, variantes *missense* patogênicas no domínio pareado de PAX9 atu
 
 **Disponibilidade de dados e código:** Todos os scripts de análise em Python, tabelas consolidadas de variantes, saídas de mutagênese de saturação do ThermoMPNN, pacotes reduzidos de arquivos do AlphaFold Server (verificados byte a byte para reproduzir todas as tabelas analíticas) e tabelas processadas de escores do AlphaGenome/SpliceAI estão abertamente arquivados no GitHub e no Zenodo (`https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1 ([ZENODO DOI PLACEHOLDER])`). As predições estruturais foram geradas com o AlphaFold Server: *"Structure predicted with AlphaFold Server; use is subject to the AlphaFold Server Output Terms of Use"* ("Estrutura predita com o AlphaFold Server; o uso está sujeito aos Termos de Uso dos Resultados do AlphaFold Server"; apenas para uso não comercial). As predições do AlphaGenome foram geradas via API do AlphaGenome sob termos de uso de pesquisa não comercial; chaves de API não são distribuídas, e os resultados não devem ser utilizados para fins clínicos ou diagnósticos.
 
-**Contribuições dos autores (CRediT):** **Filipe Martins Vono:** Conceituação; Curadoria de dados; Análise formal; Investigação; Metodologia; Software; Visualização; Redação – rascunho original; Redação – revisão e edição. **Andre Naufel:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`.
+**Contribuições dos autores (CRediT):** **Filipe Martins Vono:** Conceituação; Curadoria de dados; Análise formal; Investigação; Metodologia; Software; Visualização; Redação – rascunho original; Redação – revisão e edição. **Andre Naufel:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`. **Valeria Gonzaga Santos:** `[CREDIT ROLES PLACEHOLDER, e.g., Validation; Writing – review & editing]`.
 
 ---
 
