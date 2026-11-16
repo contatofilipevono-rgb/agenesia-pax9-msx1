@@ -74,7 +74,7 @@ Variants were scored in a 1 Mb genomic window using AlphaGenome 2 (`alphagenome`
 
 ### 2.7 Ethical considerations
 
-This study analysed exclusively publicly available, de-identified genomic and literature summary data with no human participant recruitment or identifiable patient records; institutional ethics committee review was therefore not required.
+This study was purely computational and secondary in nature: no biological specimens or DNA were collected, no new genetic sequencing or laboratory procedures were performed, and no human participants were recruited or contacted. Every data source was verified to contain strictly non-identifiable, variant-level or aggregate information: ClinVar records consist solely of public variant accessions and aggregate clinical assertions without patient identifiers; gnomAD v4 queries (`gnomad_r4`) provide only population-level allele counts and frequencies without individual-level genotypes; structural and sequence models rely exclusively on canonical reference sequences (UniProt P55771/P28360, GRCh38) and public Protein Data Bank coordinates (6PAX, 1IG7); and literature datasets (2, 3, 6) comprise published variant-level summary tables without personal or clinical-chart identifiers. Because only publicly accessible, fully anonymous, non-identifiable data were analysed, institutional ethics committee approval and informed consent were not required.
 
 ---
 
@@ -233,7 +233,7 @@ In conclusion, pathogenic missense variants in the PAX9 paired domain act predom
 
 **Acknowledgements:** None.
 
-**Ethics statement:** Only publicly accessible, de-identified variant repositories and published summary literature were analysed; ethical approval and informed consent were not required.
+**Ethics statement:** No DNA or biological samples were collected, no human participants were recruited, and no individual-level genotypes or identifiable clinical records were accessed. Only publicly accessible, fully anonymous, variant-level and aggregate data from public repositories and published literature were analysed; institutional ethics committee approval and informed consent were therefore not required.
 
 **Conflict of interest:** The authors declare no conflicts of interest.
 

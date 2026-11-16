@@ -74,7 +74,7 @@ As variantes foram pontuadas em uma janela genômica de 1 Mb utilizando o AlphaG
 
 ### 2.7 Considerações éticas
 
-Este estudo analisou exclusivamente dados resumidos públicos e anonimizados, provenientes de repositórios genômicos e da literatura científica, sem recrutamento de participantes humanos ou acesso a prontuários identificáveis; portanto, não foi necessária apreciação por comitê de ética em pesquisa institucional.
+Este estudo teve natureza exclusivamente computacional e secundária: não houve coleta de DNA ou de quaisquer amostras biológicas, não foi realizado novo sequenciamento genético ou procedimento laboratorial e nenhum participante humano foi recrutado ou contatado. Todas as fontes de dados foram verificadas quanto ao caráter estritamente anônimo e agregado ou em nível de variante: os registros do ClinVar contêm apenas códigos públicos de acesso de variantes e asserções agregadas sem identificadores de pacientes; as consultas ao gnomAD v4 (`gnomad_r4`) fornecem somente contagens e frequências alélicas populacionais, sem genótipos individuais; as modelagens estruturais e de sequência empregam exclusivamente sequências de referência canônicas (UniProt P55771/P28360, GRCh38) e coordenadas públicas do Protein Data Bank (6PAX, 1IG7); e os conjuntos da literatura (2, 3, 6) reúnem tabelas-resumo publicadas por variante, sem nomes, prontuários ou dados clínicos identificáveis. Por utilizar apenas informações de acesso público, plenamente anônimas e não identificáveis, o estudo dispensa submissão e aprovação por comitê de ética em pesquisa (CEP/IRB) e termo de consentimento livre e esclarecido.
 
 ---
 
@@ -233,7 +233,7 @@ Em conclusão, variantes *missense* patogênicas no domínio pareado de PAX9 atu
 
 **Agradecimentos:** Nenhum.
 
-**Declaração ética:** Apenas repositórios públicos e anonimizados de variantes e dados resumidos publicados na literatura foram analisados; aprovação por comitê de ética e termo de consentimento livre e esclarecido não foram necessários.
+**Declaração ética:** Não houve coleta de DNA ou amostras biológicas, recrutamento de participantes humanos, nem acesso a genótipos individuais ou prontuários identificáveis. Foram analisados exclusivamente dados públicos, anônimos e agregados ou por variante provenientes de repositórios abertos e da literatura publicada, dispensando aprovação por comitê de ética em pesquisa e termo de consentimento livre e esclarecido.
 
 **Conflito de interesses:** Os autores declaram não haver conflitos de interesses.
 
