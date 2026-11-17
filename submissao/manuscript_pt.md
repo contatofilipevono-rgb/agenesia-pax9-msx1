@@ -238,7 +238,7 @@ Em conclusão, variantes *missense* patogênicas no domínio pareado de PAX9 atu
 
 **Conflito de interesses:** Os autores declaram não haver conflitos de interesses.
 
-**Financiamento:** Esta pesquisa não recebeu auxílio financeiro específico de nenhuma agência de fomento dos setores público, comercial ou sem fins lucrativos `[VERIFY OR UPDATE IF CLOUD CREDITS APPLY]`.
+**Financiamento:** Este trabalho contou com apoio parcial por meio de créditos do Google Cloud (Google LLC); não houve recebimento de auxílio financeiro monetário específico de agências de fomento dos setores público, comercial ou sem fins lucrativos.
 
 **Disponibilidade de dados e código:** Todos os scripts de análise em Python, tabelas consolidadas de variantes, saídas de mutagênese de saturação do ThermoMPNN, pacotes reduzidos de arquivos do AlphaFold Server (verificados byte a byte para reproduzir todas as tabelas analíticas) e tabelas processadas de escores do AlphaGenome/SpliceAI estão abertamente arquivados no GitHub e no Zenodo (`https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1 ([ZENODO DOI PLACEHOLDER])`). As predições estruturais foram geradas com o AlphaFold Server: *"Structure predicted with AlphaFold Server; use is subject to the AlphaFold Server Output Terms of Use"* ("Estrutura predita com o AlphaFold Server; o uso está sujeito aos Termos de Uso dos Resultados do AlphaFold Server"; apenas para uso não comercial). As predições do AlphaGenome foram geradas via API do AlphaGenome sob termos de uso de pesquisa não comercial; chaves de API não são distribuídas, e os resultados não devem ser utilizados para fins clínicos ou diagnósticos.
 

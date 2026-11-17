@@ -238,7 +238,7 @@ In conclusion, pathogenic missense variants in the PAX9 paired domain act predom
 
 **Conflict of interest:** The authors declare no conflicts of interest.
 
-**Funding:** This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors `[VERIFY OR UPDATE IF CLOUD CREDITS APPLY]`.
+**Funding:** This work was supported in part by Google Cloud credits (Google LLC); no specific monetary grants were received from public, commercial, or not-for-profit funding agencies.
 
 **Data and code availability:** All Python analysis scripts, consolidated variant tables, ThermoMPNN saturation outputs, reduced AlphaFold Server archive bundles (verified byte-for-byte to reproduce all analytical tables), and processed AlphaGenome/SpliceAI score tables are openly archived on GitHub and Zenodo (`https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1 ([ZENODO DOI PLACEHOLDER])`). Structure predictions were generated with AlphaFold Server: *"Structure predicted with AlphaFold Server; use is subject to the AlphaFold Server Output Terms of Use"* (non-commercial use only). AlphaGenome predictions were generated via the AlphaGenome API under non-commercial research terms of use; API keys are not distributed, and outputs must not be used for clinical or diagnostic purposes.
 
