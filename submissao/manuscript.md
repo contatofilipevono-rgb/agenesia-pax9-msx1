@@ -2,14 +2,13 @@
 
 **Running title:** Structural mechanisms of *PAX9* and *MSX1* variants
 
-**Filipe Martins Vono**$^{1,*}$, **Valeria Gonzaga Santos**$^{2}$, **Andre Naufel de Toledo**$^{3}$
+**Filipe Martins Vono**$^{1,*}$, **Valeria Gonzaga Santos**$^{2}$, **Andre Naufel de Toledo**$^{1}$
 
-$^{1}$School of Dentistry, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil  
-$^{2}$American Global Tech University, Orlando, Florida, USA  
-$^{3}$Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil
+$^{1}$Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil  
+$^{2}$American Global Tech University, Orlando, Florida, USA
 
 $^{*}$**Correspondence:**  
-Filipe Martins Vono, School of Dentistry, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil.  
+Filipe Martins Vono, Centro Universitário de Belo Horizonte (UniBH), Belo Horizonte, Minas Gerais, Brazil.  
 Email: contatofilipevono@gmail.com  
 ORCID: Filipe Martins Vono (`0009-0009-4994-8533`); Valeria Gonzaga Santos (`0009-0009-1333-2518`); Andre Naufel de Toledo (`0000-0002-0619-6820`)
 
