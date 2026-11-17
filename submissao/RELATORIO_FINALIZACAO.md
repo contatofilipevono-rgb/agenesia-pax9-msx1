@@ -3,7 +3,7 @@
 **Data:** 16 de novembro de 2026  
 **Branch de trabalho:** `feat/manuscript-submission` (em `repo-agenesia/`)  
 **Revista-alvo:** *European Journal of Oral Sciences* (EJOS; plano B: *Archives of Oral Biology*)  
-**Modelos utilizados:** execução autônoma + duas passagens em `gemini-4-carbon` (`thinking_level="HIGH"`, via `carbon_client.py`: redação científica completa e auditoria adversarial de parecerista), além de verificação programática offline em Python 3.12 (`scipy 1.18.1`) e consultas bibliográficas às APIs do PubMed, Europe PMC e Crossref.
+**Modelos utilizados:** execução autônoma + passagens sequenciais dedicadas em `gemini-4-carbon` (`thinking_level="HIGH"`, via `carbon_client.py`: redação científica original, auditoria inicial e as **3 extensões pós-auditoria** — `agenesia_ext1_alphamissense_high`, `agenesia_ext2_fig1d_high` e `agenesia_ext3_table4_audit_high`), além de verificação programática offline em Python 3.12 (`scipy 1.18.1`), renderização WebGL 3D real em `3Dmol.js` via Microsoft Edge e consultas bibliográficas às APIs do PubMed, Europe PMC e Crossref.
 
 ---
 
@@ -11,14 +11,15 @@
 
 | Arquivo | Conteúdo |
 |---|---|
-| `submissao/manuscript.md` | Manuscrito completo em inglês: página de título com placeholders, resumo não estruturado (≤ 200 palavras conforme normas da EJOS), 5 palavras-chave MeSH, Introdução (~607 palavras), Material e Métodos (~1.416 palavras), Resultados (~3.771 palavras incluindo Tables 1–3 integradas), Discussão (~1.349 palavras com todas as 12 limitações), Declarações (ética, financiamento, conflitos, CRediT, disponibilidade com avisos obrigatórios do AlphaFold Server e do AlphaGenome), Legendas das Figuras 1–5 (incluindo Fig. 1C) e 27 referências em estilo Vancouver completo. |
-| `submissao/manuscript.docx` | Versão Word formatada do manuscrito completo (Times New Roman, espaçamento 1,5, tabelas acadêmicas de três linhas, quebras de página entre folha de rosto, corpo, legendas e referências). |
-| `submissao/manuscript.pdf` | Versão PDF limpa para leitura e submissão (folha de rosto, resumo, texto, Tables 1–3, declarações, legendas e referências). |
-| `submissao/manuscript_with_figures_preview.pdf` | Versão PDF completa com as Figuras 1–5 (incluindo Fig. 1C) incorporadas ao final para revisão integrada. |
-| `submissao/tables.docx` | Arquivo separado com as **Tables 1–3** formatadas em estilo acadêmico de três linhas, notas de rodapé metodológicas e estatísticas consistentes com `manuscript.md`. |
-| `submissao/supplementary.xlsx` | Planilha suplementar com 6 abas: `S1_VUS_Classification` (todas as 210 VUS dos domínios com coluna de subgrupo de independência), `S1_VUS_Subgroup_Summary`, `S2_Threshold_Sensitivity` (grade 3×3 completa + ICs de Wilson e Simel + transferência para *MSX1*), `S3_AlphaGenome_By_Cell` (77 variantes não codificantes/splicing por tipo celular + AG1 + SpliceAI), `S3b_Expression_By_Cell` (`expressao_por_celula.csv`) e `S4_AlphaFold_Server_Jobs` (41 jobs + aviso do AlphaFold Server). |
-| `submissao/cover_letter.docx` e `cover_letter.pdf` | Carta de submissão de 1 página endereçada ao Editor-in-Chief da *European Journal of Oral Sciences*. |
-| `submissao/figuras/` | Cópias em padrão editorial da EJOS: `Figure_1_DNA_distance` a `Figure_5_alphagenome_spliceai` em **TIFF 600 dpi** (compressão LZW) e **PDF vetorial**, mantendo integralmente a paleta validada para daltonismo, além de `Figure_1C_PAX9_AF3_pLDDT.tif` (300 dpi). |
+| `submissao/manuscript.md` | Manuscrito completo em inglês: folha de rosto completa (`Filipe Martins Vono` [`0009-0009-4994-8533`], `Andre Naufel de Toledo` [`0000-0002-0619-6820`], `Valeria Gonzaga Santos` [`0009-0009-1333-2518`, Orlando, FL, USA]; e-mail correspondente com placeholder), resumo não estruturado (191 palavras por espaço / 197 tokens ≤ 200 conforme normas da EJOS), 5 palavras-chave MeSH, Introdução, Material e Métodos, Resultados (com **Tables 1–4** integradas), Discussão (incluindo 12 limitações organizadas em 3 parágrafos temáticos), Declarações (ética sem coleta de DNA, financiamento Google Cloud, conflitos, CRediT, disponibilidade com avisos obrigatórios do AlphaFold Server e do AlphaGenome), Legendas das Figuras 1–5 (incluindo Fig. 1C e **Fig. 1D**) e 27 referências em estilo Vancouver completo. |
+| `submissao/manuscript.docx` | Versão Word formatada do manuscrito completo (Times New Roman, espaçamento 1,5, Tables 1–4 acadêmicas de três linhas, quebras de página entre folha de rosto, corpo, legendas e referências). |
+| `submissao/manuscript.pdf` | Versão PDF limpa para submissão (**24 páginas**: folha de rosto, resumo, texto, Tables 1–4, declarações, legendas e referências). |
+| `submissao/manuscript_with_figures_preview.pdf` | Versão PDF completa com todas as Figuras 1–5 (incluindo Fig. 1C e Fig. 1D em 3D) incorporadas ao final (**29 páginas**). |
+| `submissao/manuscript_pt.md` e `manuscript_pt.pdf` | Espelho completo atualizado em português brasileiro (**31 páginas** com Figuras 1–5 + 1C + 1D) para leitura e revisão clínica dos coautores. |
+| `submissao/tables.docx` | Arquivo separado com as **Tables 1–4** formatadas em estilo acadêmico de três linhas, incluindo benchmarking completo do AlphaMissense na Table 2 e a nova Table 4 (15 VUS *missense* exclusivas do ClinVar + 7 candidatas intrônicas/de *splicing* concordantes, com aviso estrito de uso exclusivo em pesquisa). |
+| `submissao/supplementary.xlsx` | Planilha suplementar com 6 abas: `S1_VUS_Classification`, `S1_VUS_Subgroup_Summary`, `S2_Threshold_Sensitivity` (incluindo linhas de comparação do AlphaMissense em `> 0.564` e sensibilidade pareada), `S3_AlphaGenome_By_Cell`, `S3b_Expression_By_Cell` e `S4_AlphaFold_Server_Jobs`. |
+| `submissao/cover_letter.docx` e `cover_letter.pdf` | Carta de submissão de **1 página** endereçada ao Editor-in-Chief da *European Journal of Oral Sciences*, atualizada com coautoria e achados das Extensões 1–3. |
+| `submissao/figuras/` | Cópias em padrão editorial da EJOS: `Figure_1_DNA_distance` a `Figure_5_alphagenome_spliceai` em **TIFF 600 dpi** (compressão LZW) e **PDF vetorial**, mantendo integralmente a paleta validada para daltonismo, `Figure_1C_PAX9_AF3_pLDDT.tif` (300 dpi) e a nova **`Figure_1D_3D_mechanisms.tif` (600 dpi LZW) + `.pdf`** (renderização WebGL 3D em `4400×2240` px dos complexos selvagens do AlphaFold 3 coloridos por mecanismo). |
 | `submissao/RELATORIO_FINALIZACAO.md` | Este relatório de finalização e auditoria. |
 
 ---
@@ -100,12 +101,24 @@ Todas as **27 referências** citadas em `manuscript.md` foram verificadas via AP
 
 ---
 
-## 4. O que ainda depende exclusivamente dos autores antes do envio
+## 4. Extensões Pós-Auditoria Executadas com `gemini-4-carbon (HIGH)` e Pendências Finais
+
+### C. Extensões integradas (Sugestões 1–3) e achados da auditoria final de parecerista
+1. **Extensão 1 — Especificidade do AlphaMissense (`> 0.564` vs sensibilidade pareada) e reorganização das Limitações:**
+   - No limiar patogênico padrão do AlphaMissense (`> 0.564`), a sensibilidade é de `100%` em *PAX9* e *MSX1*, mas a especificidade despenca para `8.3%` (`44/48` falsos positivos em `AC ≥ 2`, Fisher *p* = 0.15) e `6.5%` (`116/124`, *p* = 0.21) em *PAX9*, e `20.7%` (`23/29`, *p* = 0.32) / `13.6%` (`51/59`, *p* = 0.58) em *MSX1*. Igualar a sensibilidade da regra estrutural exige pontos de corte *post hoc* extremos (`≥ 0.9992` em *PAX9*, especificidade `77.1%`; `≥ 0.9993` em *MSX1*, especificidade `96.6%` com circularidade de frequência alélica do gnomAD). Dados adicionados ao Resumo, Seção 3.4, Table 2, Discussão e `S2_Threshold_Sensitivity`.
+   - As 12 limitações foram divididas em três parágrafos temáticos preservando os itens `(i)`–`(xii)`, e a limitação `(ii)` explicita que o 29º controle recorrente de *MSX1* fora de `U` (`28/29`) é `S210N` (*Likely benign*, AC = 143, distância 10.4 Å, ΔΔG = −0.41 kcal/mol, AlphaMissense = 0.2125, negativo pela regra).
+2. **Extensão 2 — Figura 1D tridimensional (`3Dmol.js` / AlphaFold 3 WT colorido por mecanismo):**
+   - Renderizados os modelos selvagens exatos de melhor ranqueamento (`fold_pax9_paired_domain_dna_wt_model_4.cif` e `fold_msx1_wt_model_0.cif`) em `4400 × 2240` px e exportados em `600 dpi` TIFF LZW + PDF.
+   - A auditoria estrutural no `gemini-4-carbon (HIGH)` corrigiu com precisão cristalográfica que *MSX1* `R202` (`R202H` / `R202P*`, HD `Arg31`) situa-se na **hélice α2** em contato com o esqueleto fosfodiéster do DNA (e não na hélice de reconhecimento α3), enquanto `A225T` e `A227E` mapeiam na face externa exposta ao solvente da **hélice α3**.
+3. **Extensão 3 — Table 4 exploratória + auditoria final completa:**
+   - Criada a **Table 4** reunindo todas as 15 VUS *missense* exclusivas do ClinVar positivas pela regra (10 *PAX9* + 5 *MSX1*, ausentes do gnomAD v4) e as 7 variantes intrônicas/de região de *splicing* do grupo `U` concordantes entre AlphaGenome 2, AlphaGenome 1 e SpliceAI, com aviso de pesquisa não clínica.
+   - Corrigidos na auditoria final: separação de *PAX9* `R26Q` (`AC = 1` *singleton*) dos candidatos exclusivos do ClinVar (`AC = 0`) na Discussão; distinção explícita das duas entradas intrônicas sem classificação informada no ClinVar (`VCV004396677` `c.771+1G>A` e `VCV004396678` `c.772-3C>G`, tratadas no grupo `U` junto às 5 VUS); especificação de faixa multi-condição vs célula mesenquimal na Seção 3.8; e substituição de expressões `$...$` remanescentes por Unicode limpo em prosa.
+
+## 5. O que ainda depende exclusivamente dos autores antes do envio
 
 1. **Dados dos coautores e de correspondência:**
-   - E-mail institucional e ORCID do autor correspondente **Filipe Martins Vono** (`[CORRESPONDING AUTHOR EMAIL PLACEHOLDER]`, `[ORCID PLACEHOLDER]`).
-   - ORCID de **Andre Naufel** (`[ORCID PLACEHOLDER]`, afiliação atualizada para Centro Universitário de Belo Horizonte – UniBH) e confirmação dos papéis CRediT de **Andre Naufel** e **Valeria Gonzaga Santos** (`0009-0009-1333-2518`, American Global Tech University).
-2. **Financiamento:** atualizado para registrar apoio parcial por créditos do Google Cloud (sem auxílio monetário externo; acrescentar eventual código de concessão/programa, se desejar especificar).
-3. **DOI do Zenodo:** gerar o depósito no Zenodo vinculado ao repositório `https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1` e substituir `[ZENODO DOI PLACEHOLDER]` em `manuscript.md`/`manuscript.docx` e `cover_letter.docx`.
-4. **Conferência opcional da subversão do gnomAD (`v4.0` vs `v4.1`) e inspeção visual de Wang 2009:** o endpoint GraphQL `gnomad_r4` não registra a subversão menor no CSV exportado (já declarado como limitação transparente na Seção 4); os valores de Wang 2009 foram conferidos no texto completo HTML em `PMC2706687` (Tabela 1 e legenda da Fig. 3B), restando apenas inspeção visual opcional do gel no PDF original, caso desejem.
-5. **Leitura final e revisão de anonimização para a EJOS:** verificar se a revista exigirá envio da página de título em arquivo separado do corpo do manuscrito no portal ScholarOne/Research Exchange da Wiley (para revisão duplo-cega).
+   - E-mail institucional do autor correspondente **Filipe Martins Vono** (`[CORRESPONDING AUTHOR EMAIL PLACEHOLDER]`; ORCID `0009-0009-4994-8533` já inserido).
+   - Confirmação dos papéis CRediT (`[CREDIT ROLES PLACEHOLDER]`) para **Andre Naufel de Toledo** (ORCID `0000-0002-0619-6820`, Centro Universitário de Belo Horizonte – UniBH) e **Valeria Gonzaga Santos** (ORCID `0009-0009-1333-2518`, American Global Tech University, Orlando, Florida, USA).
+2. **DOI do Zenodo:** gerar o depósito no Zenodo vinculado ao repositório `https://github.com/contatofilipevono-rgb/agenesia-pax9-msx1` **após** o push final desta versão e substituir `[ZENODO DOI PLACEHOLDER]` em `manuscript.md`/`manuscript.docx`/`cover_letter.docx`.
+3. **Conferência opcional da subversão do gnomAD (`v4.0` vs `v4.1`) e inspeção visual de Wang 2009:** o endpoint GraphQL `gnomad_r4` não registra a subversão menor no CSV exportado (já declarado como limitação transparente na Seção 4); os valores de Wang 2009 foram conferidos no texto completo HTML em `PMC2706687` (Tabela 1 e legenda da Fig. 3B).
+4. **Submissão combinada *preprint* (bioRxiv) → EJOS / *Caries Research* / *Clin Genet*:** o pacote atual atende estritamente às normas da *bioRxiv* e da *European Journal of Oral Sciences* (Wiley permite submissão prévia em servidores de *preprint* não comerciais; verificar se a EJOS exige folha de rosto em arquivo separado para revisão duplo-cega no Research Exchange/ScholarOne).
